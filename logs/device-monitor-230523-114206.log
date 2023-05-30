@@ -1,1966 +1,0 @@
-Write int:2
-Write char:Text data: 2�@�}@0
-Recv Buffer int:2
-Recv Buffer str:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Recv Buffer int:3
-Recv Buffer str:Text data: 3�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Recv Buffer int:4
-Recv Buffer str:Text data: 4�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Recv Buffer int:5
-Recv Buffer str:Text data: 5�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Recv Buffer int:6
-Recv Buffer str:Text data: 6�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Recv Buffer int:7
-Recv Buffer str:Text data: 7�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Recv Buffer int:8
-Recv Buffer str:Text data: 8�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Recv Buffer int:9
-Recv Buffer str:Text data: 9�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Recv Buffer int:1
-Recv Buffer str:Text data: 1�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Recv Buffer int:2
-Recv Buffer str:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Recv Buffer int:3
-Recv Buffer str:Text data: 3�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Recv Buffer int:4
-Recv Buffer str:Text data: 4�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Recv Buffer int:5
-Recv Buffer str:Text data: 5�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Recv Buffer int:6
-Recv Buffer str:Text data: 6�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Recv Buffer int:7
-Recv Buffer str:Text data: 7�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Recv Buffer int:8
-Recv Buffer str:Text data: 8�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Recv Buffer int:9
-Recv Buffer str:Text data: 9�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Recv Buffer int:1
-Recv Buffer str:Text data: 1�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Recv Buffer int:2
-Recv Buffer str:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Recv Buffer int:3
-Recv Buffer str:Text data: 3�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Recv Buffer int:4
-Recv Buffer str:Text data: 4�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Recv Buffer int:5
-Recv Buffer str:Text data: 5�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Recv Buffer int:6
-Recv Buffer str:Text data: 6�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Recv Buffer int:7
-Recv Buffer str:Text data: 7�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Recv Buffer int:8
-Recv Buffer str:Text data: 8�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Recv Buffer int:9
-Recv Buffer str:Text data: 9�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Recv Buffer int:1
-Recv Buffer str:Text data: 1�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Recv Buffer int:2
-Recv Buffer str:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Recv Buffer int:3
-Recv Buffer str:Text data: 3�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Recv Buffer int:4
-Recv Buffer str:Text data: 4�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Recv Buffer int:5
-Recv Buffer str:Text data: 5�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Recv Buffer int:6
-Recv Buffer str:Text data: 6�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Recv Buffer int:7
-Recv Buffer str:Text data: 7�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Recv Buffer int:8
-Recv Buffer str:Text data: 8�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Recv Buffer int:9
-Recv Buffer str:Text data: 9�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Recv Buffer int:1
-Recv Buffer str:Text data: 1�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Recv Buffer int:2
-Recv Buffer str:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Recv Buffer int:3
-Recv Buffer str:Text data: 3�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-ets Jun  8 2016 00:22:57
-
-rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
-configsip: 0, SPIWP:0xee
-clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
-mode:DIO, clock div:2
-load:0x3fff0030,len:4700
-ho 0 tail 12 room 4
-load:0x40078000,len:14304
-load:0x40080400,len:3192
-entry 0x4008060c
-[0;32mI (85) cpu_start: Pro cpu up.[0m
-D (86) efuse: In EFUSE_BLK0__DATA3_REG is used 1 bits starting with 15 bit[0m
-D (86) efuse: In EFUSE_BLK0__DATA5_REG is used 1 bits starting with 20 bit[0m
-D (92) efuse: In EFUSE_BLK0__DATA3_REG is used 3 bits starting with 9 bit[0m
-D (99) efuse: In EFUSE_BLK0__DATA3_REG is used 1 bits starting with 2 bit[0m
-[0;32mI (105) cpu_start: Starting app cpu, entry point is 0x40081028[0m
-[0;32mI (0) cpu_start: App cpu up.[0m
-D (120) clk: RTC_SLOW_CLK calibration value: 3107443[0m
-[0;32mI (132) cpu_start: Pro cpu start user code[0m
-[0;32mI (132) cpu_start: cpu freq: 160000000[0m
-[0;32mI (132) cpu_start: Application information:[0m
-[0;32mI (137) cpu_start: Project name:     Queue_test[0m
-[0;32mI (142) cpu_start: App version:      907520c-dirty[0m
-[0;32mI (147) cpu_start: Compile time:     May 23 2023 11:00:55[0m
-[0;32mI (154) cpu_start: ELF file SHA256:  120a7a33452d6b32...[0m
-[0;32mI (160) cpu_start: ESP-IDF:          4.4.2[0m
-D (164) memory_layout: Checking 7 reserved memory ranges:[0m
-D (170) memory_layout: Reserved memory range 0x3ffae000 - 0x3ffae6e0[0m
-D (176) memory_layout: Reserved memory range 0x3ffb0000 - 0x3ffb2c50[0m
-D (183) memory_layout: Reserved memory range 0x3ffe0000 - 0x3ffe0440[0m
-D (189) memory_layout: Reserved memory range 0x3ffe3f20 - 0x3ffe4350[0m
-D (195) memory_layout: Reserved memory range 0x40070000 - 0x40078000[0m
-D (202) memory_layout: Reserved memory range 0x40078000 - 0x40080000[0m
-D (208) memory_layout: Reserved memory range 0x40080000 - 0x4008b67c[0m
-D (215) memory_layout: Building list of available memory regions:[0m
-D (221) memory_layout: Available memory region 0x3ffae6e0 - 0x3ffb0000[0m
-D (228) memory_layout: Available memory region 0x3ffb2c50 - 0x3ffb8000[0m
-D (234) memory_layout: Available memory region 0x3ffb8000 - 0x3ffc0000[0m
-D (241) memory_layout: Available memory region 0x3ffc0000 - 0x3ffc2000[0m
-D (247) memory_layout: Available memory region 0x3ffc2000 - 0x3ffc4000[0m
-D (254) memory_layout: Available memory region 0x3ffc4000 - 0x3ffc6000[0m
-D (260) memory_layout: Available memory region 0x3ffc6000 - 0x3ffc8000[0m
-D (267) memory_layout: Available memory region 0x3ffc8000 - 0x3ffca000[0m
-D (274) memory_layout: Available memory region 0x3ffca000 - 0x3ffcc000[0m
-D (280) memory_layout: Available memory region 0x3ffcc000 - 0x3ffce000[0m
-D (287) memory_layout: Available memory region 0x3ffce000 - 0x3ffd0000[0m
-D (293) memory_layout: Available memory region 0x3ffd0000 - 0x3ffd2000[0m
-D (300) memory_layout: Available memory region 0x3ffd2000 - 0x3ffd4000[0m
-D (307) memory_layout: Available memory region 0x3ffd4000 - 0x3ffd6000[0m
-D (313) memory_layout: Available memory region 0x3ffd6000 - 0x3ffd8000[0m
-D (320) memory_layout: Available memory region 0x3ffd8000 - 0x3ffda000[0m
-D (326) memory_layout: Available memory region 0x3ffda000 - 0x3ffdc000[0m
-D (333) memory_layout: Available memory region 0x3ffdc000 - 0x3ffde000[0m
-D (340) memory_layout: Available memory region 0x3ffde000 - 0x3ffe0000[0m
-D (346) memory_layout: Available memory region 0x3ffe0440 - 0x3ffe3f20[0m
-D (353) memory_layout: Available memory region 0x3ffe4350 - 0x3ffe8000[0m
-D (359) memory_layout: Available memory region 0x3ffe8000 - 0x3fff0000[0m
-D (366) memory_layout: Available memory region 0x3fff0000 - 0x3fff8000[0m
-D (373) memory_layout: Available memory region 0x3fff8000 - 0x3fffc000[0m
-D (379) memory_layout: Available memory region 0x3fffc000 - 0x40000000[0m
-D (386) memory_layout: Available memory region 0x4008b67c - 0x4008c000[0m
-D (392) memory_layout: Available memory region 0x4008c000 - 0x4008e000[0m
-D (399) memory_layout: Available memory region 0x4008e000 - 0x40090000[0m
-D (406) memory_layout: Available memory region 0x40090000 - 0x40092000[0m
-D (412) memory_layout: Available memory region 0x40092000 - 0x40094000[0m
-D (419) memory_layout: Available memory region 0x40094000 - 0x40096000[0m
-D (425) memory_layout: Available memory region 0x40096000 - 0x40098000[0m
-D (432) memory_layout: Available memory region 0x40098000 - 0x4009a000[0m
-D (439) memory_layout: Available memory region 0x4009a000 - 0x4009c000[0m
-D (445) memory_layout: Available memory region 0x4009c000 - 0x4009e000[0m
-D (452) memory_layout: Available memory region 0x4009e000 - 0x400a0000[0m
-[0;32mI (458) heap_init: Initializing. RAM available for dynamic allocation:[0m
-D (466) heap_init: New heap initialised at 0x3ffae6e0[0m
-[0;32mI (471) heap_init: At 3FFAE6E0 len 00001920 (6 KiB): DRAM[0m
-D (477) heap_init: New heap initialised at 0x3ffb2c50[0m
-[0;32mI (482) heap_init: At 3FFB2C50 len 0002D3B0 (180 KiB): DRAM[0m
-[0;32mI (488) heap_init: At 3FFE0440 len 00003AE0 (14 KiB): D/IRAM[0m
-[0;32mI (495) heap_init: At 3FFE4350 len 0001BCB0 (111 KiB): D/IRAM[0m
-D (501) heap_init: New heap initialised at 0x4008b67c[0m
-[0;32mI (506) heap_init: At 4008B67C len 00014984 (82 KiB): IRAM[0m
-D (513) intr_alloc: Connected src 46 to int 2 (cpu 0)[0m
-D (518) FLASH_HAL: extra_dummy: 1[0m
-D (521) spi_flash: trying chip: issi[0m
-D (524) spi_flash: trying chip: gd[0m
-D (528) spi_flash: trying chip: mxic[0m
-D (532) spi_flash: trying chip: winbond[0m
-D (536) spi_flash: trying chip: generic[0m
-[0;32mI (539) spi_flash: detected chip: generic[0m
-[0;32mI (544) spi_flash: flash io: dio[0m
-D (548) cpu_start: calling init function: 0x400d64d0[0m
-D (553) cpu_start: calling init function: 0x400d1684[0m
-D (558) cpu_start: calling init function: 0x400d0cc4[0m
-D (563) intr_alloc: Connected src 17 to int 3 (cpu 0)[0m
-D (568) intr_alloc: Connected src 24 to int 9 (cpu 0)[0m
-[0;32mI (573) cpu_start: Starting scheduler on PRO CPU.[0m
-D (0) intr_alloc: Connected src 25 to int 2 (cpu 1)[0m
-[0;32mI (0) cpu_start: Starting scheduler on APP CPU.[0m
-D (599) heap_init: New heap initialised at 0x3ffe0440[0m
-D (599) heap_init: New heap initialised at 0x3ffe4350[0m
-D (609) intr_alloc: Connected src 16 to int 12 (cpu 0)[0m
-mWrite int:1
-Write char:Text data: 1�@�}@0
-Recv Buffer int:1
-Recv Buffer str:Text data: 1�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Recv Buffer int:2
-Recv Buffer str:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Recv Buffer int:3
-Recv Buffer str:Text data: 3�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Recv Buffer int:4
-Recv Buffer str:Text data: 4�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Recv Buffer int:5
-Recv Buffer str:Text data: 5�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Recv Buffer int:6
-Recv Buffer str:Text data: 6�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Recv Buffer int:7
-Recv Buffer str:Text data: 7�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-ets Jun  8 2016 00:22:57
-
-rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
-configsip: 0, SPIWP:0xee
-clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
-mode:DIO, clock div:2
-load:0x3fff0030,len:4700
-ho 0 tail 12 room 4
-load:0x40078000,len:14304
-load:0x40080400,len:3192
-entry 0x4008060c
-[0;32mI (85) cpu_start: Pro cpu up.[0m
-D (86) efuse: In EFUSE_BLK0__DATA3_REG is used 1 bits starting with 15 bit[0m
-D (86) efuse: In EFUSE_BLK0__DATA5_REG is used 1 bits starting with 20 bit[0m
-D (92) efuse: In EFUSE_BLK0__DATA3_REG is used 3 bits starting with 9 bit[0m
-D (99) efuse: In EFUSE_BLK0__DATA3_REG is used 1 bits starting with 2 bit[0m
-[0;32mI (105) cpu_start: Starting app cpu, entry point is 0x40081028[0m
-[0;32mI (0) cpu_start: App cpu up.[0m
-D (120) clk: RTC_SLOW_CLK calibration value: 3095155[0m
-[0;32mI (132) cpu_start: Pro cpu start user code[0m
-[0;32mI (132) cpu_start: cpu freq: 160000000[0m
-[0;32mI (132) cpu_start: Application information:[0m
-[0;32mI (137) cpu_start: Project name:     Queue_test[0m
-[0;32mI (142) cpu_start: App version:      907520c-dirty[0m
-[0;32mI (148) cpu_start: Compile time:     May 23 2023 11:00:55[0m
-[0;32mI (154) cpu_start: ELF file SHA256:  120a7a33452d6b32...[0m
-[0;32mI (160) cpu_start: ESP-IDF:          4.4.2[0m
-D (165) memory_layout: Checking 7 reserved memory ranges:[0m
-D (170) memory_layout: Reserved memory range 0x3ffae000 - 0x3ffae6e0[0m
-D (176) memory_layout: Reserved memory range 0x3ffb0000 - 0x3ffb2c50[0m
-D (183) memory_layout: Reserved memory range 0x3ffe0000 - 0x3ffe0440[0m
-D (189) memory_layout: Reserved memory range 0x3ffe3f20 - 0x3ffe4350[0m
-D (196) memory_layout: Reserved memory range 0x40070000 - 0x40078000[0m
-D (202) memory_layout: Reserved memory range 0x40078000 - 0x40080000[0m
-D (208) memory_layout: Reserved memory range 0x40080000 - 0x4008b67c[0m
-D (215) memory_layout: Building list of available memory regions:[0m
-D (221) memory_layout: Available memory region 0x3ffae6e0 - 0x3ffb0000[0m
-D (228) memory_layout: Available memory region 0x3ffb2c50 - 0x3ffb8000[0m
-D (234) memory_layout: Available memory region 0x3ffb8000 - 0x3ffc0000[0m
-D (241) memory_layout: Available memory region 0x3ffc0000 - 0x3ffc2000[0m
-D (247) memory_layout: Available memory region 0x3ffc2000 - 0x3ffc4000[0m
-D (254) memory_layout: Available memory region 0x3ffc4000 - 0x3ffc6000[0m
-D (261) memory_layout: Available memory region 0x3ffc6000 - 0x3ffc8000[0m
-D (267) memory_layout: Available memory region 0x3ffc8000 - 0x3ffca000[0m
-D (274) memory_layout: Available memory region 0x3ffca000 - 0x3ffcc000[0m
-D (280) memory_layout: Available memory region 0x3ffcc000 - 0x3ffce000[0m
-D (287) memory_layout: Available memory region 0x3ffce000 - 0x3ffd0000[0m
-D (294) memory_layout: Available memory region 0x3ffd0000 - 0x3ffd2000[0m
-D (300) memory_layout: Available memory region 0x3ffd2000 - 0x3ffd4000[0m
-D (307) memory_layout: Available memory region 0x3ffd4000 - 0x3ffd6000[0m
-D (313) memory_layout: Available memory region 0x3ffd6000 - 0x3ffd8000[0m
-D (320) memory_layout: Available memory region 0x3ffd8000 - 0x3ffda000[0m
-D (327) memory_layout: Available memory region 0x3ffda000 - 0x3ffdc000[0m
-D (333) memory_layout: Available memory region 0x3ffdc000 - 0x3ffde000[0m
-D (340) memory_layout: Available memory region 0x3ffde000 - 0x3ffe0000[0m
-D (346) memory_layout: Available memory region 0x3ffe0440 - 0x3ffe3f20[0m
-D (353) memory_layout: Available memory region 0x3ffe4350 - 0x3ffe8000[0m
-D (360) memory_layout: Available memory region 0x3ffe8000 - 0x3fff0000[0m
-D (366) memory_layout: Available memory region 0x3fff0000 - 0x3fff8000[0m
-D (373) memory_layout: Available memory region 0x3fff8000 - 0x3fffc000[0m
-D (379) memory_layout: Available memory region 0x3fffc000 - 0x40000000[0m
-D (386) memory_layout: Available memory region 0x4008b67c - 0x4008c000[0m
-D (392) memory_layout: Available memory region 0x4008c000 - 0x4008e000[0m
-D (399) memory_layout: Available memory region 0x4008e000 - 0x40090000[0m
-D (406) memory_layout: Available memory region 0x40090000 - 0x40092000[0m
-D (412) memory_layout: Available memory region 0x40092000 - 0x40094000[0m
-D (419) memory_layout: Available memory region 0x40094000 - 0x40096000[0m
-D (425) memory_layout: Available memory region 0x40096000 - 0x40098000[0m
-D (432) memory_layout: Available memory region 0x40098000 - 0x4009a000[0m
-D (439) memory_layout: Available memory region 0x4009a000 - 0x4009c000[0m
-D (445) memory_layout: Available memory region 0x4009c000 - 0x4009e000[0m
-D (452) memory_layout: Available memory region 0x4009e000 - 0x400a0000[0m
-[0;32mI (458) heap_init: Initializing. RAM available for dynamic allocation:[0m
-D (466) heap_init: New heap initialised at 0x3ffae6e0[0m
-[0;32mI (471) heap_init: At 3FFAE6E0 len 00001920 (6 KiB): DRAM[0m
-D (477) heap_init: New heap initialised at 0x3ffb2c50[0m
-[0;32mI (482) heap_init: At 3FFB2C50 len 0002D3B0 (180 KiB): DRAM[0m
-[0;32mI (488) heap_init: At 3FFE0440 len 00003AE0 (14 KiB): D/IRAM[0m
-[0;32mI (495) heap_init: At 3FFE4350 len 0001BCB0 (111 KiB): D/IRAM[0m
-D (501) heap_init: New heap initialised at 0x4008b67c[0m
-[0;32mI (506) heap_init: At 4008B67C len 00014984 (82 KiB): IRAM[0m
-D (513) intr_alloc: Connected src 46 to int 2 (cpu 0)[0m
-D (518) FLASH_HAL: extra_dummy: 1[0m
-D (521) spi_flash: trying chip: issi[0m
-D (525) spi_flash: trying chip: gd[0m
-D (528) spi_flash: trying chip: mxic[0m
-D (532) spi_flash: trying chip: winbond[0m
-D (536) spi_flash: trying chip: generic[0m
-[0;32mI (539) spi_flash: detected chip: generic[0m
-[0;32mI (544) spi_flash: flash io: dio[0m
-D (548) cpu_start: calling init function: 0x400d64d0[0m
-D (553) cpu_start: calling init function: 0x400d1684[0m
-D (558) cpu_start: calling init function: 0x400d0cc4[0m
-D (563) intr_alloc: Connected src 17 to int 3 (cpu 0)[0m
-D (568) intr_alloc: Connected src 24 to int 9 (cpu 0)[0m
-[0;32mI (573) cpu_start: Starting scheduler on PRO CPU.[0m
-D (0) intr_alloc: Connected src 25 to int 2 (cpu 1)[0m
-[0;32mI (0) cpu_start: Starting scheduler on APP CPU.[0m
-D (599) heap_init: New heap initialised at 0x3ffe0440[0m
-D (599) heap_init: New heap initialised at 0x3ffe4350[0m
-D (609) intr_alloc: Connected src 16 to int 12 (cpu 0)[0m
-mWrite int:1
-Write char:Text data: 1�@�}@0
-Recv Buffer int:1
-Recv Buffer str:Text data: 1�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Recv Buffer int:2
-Recv Buffer str:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Recv Buffer int:3
-Recv Buffer str:Text data: 3�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Recv Buffer int:4
-Recv Buffer str:Text data: 4�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Recv Buffer int:5
-Recv Buffer str:Text data: 5�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Recv Buffer int:6
-Recv Buffer str:Text data: 6�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Recv Buffer int:7
-Recv Buffer str:Text data: 7�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Recv Buffer int:8
-Recv Buffer str:Text data: 8�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Recv Buffer int:9
-Recv Buffer str:Text data: 9�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Recv Buffer int:1
-Recv Buffer str:Text data: 1�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Recv Buffer int:2
-Recv Buffer str:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Recv Buffer int:3
-Recv Buffer str:Text data: 3�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Recv Buffer int:4
-Recv Buffer str:Text data: 4�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Recv Buffer int:5
-Recv Buffer str:Text data: 5�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Recv Buffer int:6
-Recv Buffer str:Text data: 6�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Recv Buffer int:7
-Recv Buffer str:Text data: 7�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Recv Buffer int:8
-Recv Buffer str:Text data: 8�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Recv Buffer int:9
-Recv Buffer str:Text data: 9�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Recv Buffer int:1
-Recv Buffer str:Text data: 1�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Recv Buffer int:2
-Recv Buffer str:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Recv Buffer int:3
-Recv Buffer str:Text data: 3�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Recv Buffer int:4
-Recv Buffer str:Text data: 4�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Recv Buffer int:5
-Recv Buffer str:Text data: 5�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Recv Buffer int:6
-Recv Buffer str:Text data: 6�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Recv Buffer int:7
-Recv Buffer str:Text data: 7�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Recv Buffer int:8
-Recv Buffer str:Text data: 8�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Recv Buffer int:9
-Recv Buffer str:Text data: 9�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Recv Buffer int:1
-Recv Buffer str:Text data: 1�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Recv Buffer int:2
-Recv Buffer str:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Recv Buffer int:3
-Recv Buffer str:Text data: 3�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Recv Buffer int:4
-Recv Buffer str:Text data: 4�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Recv Buffer int:5
-Recv Buffer str:Text data: 5�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Recv Buffer int:6
-Recv Buffer str:Text data: 6�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Recv Buffer int:7
-Recv Buffer str:Text data: 7�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Recv Buffer int:8
-Recv Buffer str:Text data: 8�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Recv Buffer int:9
-Recv Buffer str:Text data: 9�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Recv Buffer int:1
-Recv Buffer str:Text data: 1�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Recv Buffer int:2
-Recv Buffer str:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Recv Buffer int:3
-Recv Buffer str:Text data: 3�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Recv Buffer int:4
-Recv Buffer str:Text data: 4�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Recv Buffer int:5
-Recv Buffer str:Text data: 5�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Recv Buffer int:7
-Recv Buffer str:Text data: 7�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Recv Buffer int:9
-Recv Buffer str:Text data: 9�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Recv Buffer int:2
-Recv Buffer str:Text data: 2�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Recv Buffer int:4
-Recv Buffer str:Text data: 4�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Recv Buffer int:6
-Recv Buffer str:Text data: 6�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Recv Buffer int:8
-Recv Buffer str:Text data: 8�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Recv Buffer int:1
-Recv Buffer str:Text data: 1�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Recv Buffer int:3
-Recv Buffer str:Text data: 3�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Recv Buffer int:5
-Recv Buffer str:Text data: 5�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Recv Buffer int:7
-Recv Buffer str:Text data: 7�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Recv Buffer int:9
-Recv Buffer str:Text data: 9�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Recv Buffer int:2
-Recv Buffer str:Text data: 2�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Recv Buffer int:4
-Recv Buffer str:Text data: 4�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Recv Buffer int:6
-Recv Buffer str:Text data: 6�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Recv Buffer int:8
-Recv Buffer str:Text data: 8�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Recv Buffer int:1
-Recv Buffer str:Text data: 1�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Recv Buffer int:3
-Recv Buffer str:Text data: 3�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Recv Buffer int:5
-Recv Buffer str:Text data: 5�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Recv Buffer int:7
-Recv Buffer str:Text data: 7�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Recv Buffer int:9
-Recv Buffer str:Text data: 9�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Recv Buffer int:2
-Recv Buffer str:Text data: 2�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Recv Buffer int:4
-Recv Buffer str:Text data: 4�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Recv Buffer int:6
-Recv Buffer str:Text data: 6�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Recv Buffer int:8
-Recv Buffer str:Text data: 8�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Recv Buffer int:1
-Recv Buffer str:Text data: 1�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Recv Buffer int:3
-Recv Buffer str:Text data: 3�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Recv Buffer int:5
-Recv Buffer str:Text data: 5�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Recv Buffer int:7
-Recv Buffer str:Text data: 7�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Recv Buffer int:9
-Recv Buffer str:Text data: 9�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Recv Buffer int:2
-Recv Buffer str:Text data: 2�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Recv Buffer int:4
-Recv Buffer str:Text data: 4�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Recv Buffer int:6
-Recv Buffer str:Text data: 6�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Recv Buffer int:8
-Recv Buffer str:Text data: 8�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Recv Buffer int:1
-Recv Buffer str:Text data: 1�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Recv Buffer int:3
-Recv Buffer str:Text data: 3�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Recv Buffer int:5
-Recv Buffer str:Text data: 5�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Recv Buffer int:7
-Recv Buffer str:Text data: 7�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Recv Buffer int:9
-Recv Buffer str:Text data: 9�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Recv Buffer int:2
-Recv Buffer str:Text data: 2�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Recv Buffer int:4
-Recv Buffer str:Text data: 4�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-ets Jun  8 2016 00:22:57
-
-rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
-configsip: 0, SPIWP:0xee
-clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
-mode:DIO, clock div:2
-load:0x3fff0030,len:4700
-ho 0 tail 12 room 4
-load:0x40078000,len:14304
-load:0x40080400,len:3192
-entry 0x4008060c
-[0;32mI (85) cpu_start: Pro cpu up.[0m
-D (86) efuse: In EFUSE_BLK0__DATA3_REG is used 1 bits starting with 15 bit[0m
-D (86) efuse: In EFUSE_BLK0__DATA5_REG is used 1 bits starting with 20 bit[0m
-D (92) efuse: In EFUSE_BLK0__DATA3_REG is used 3 bits starting with 9 bit[0m
-D (99) efuse: In EFUSE_BLK0__DATA3_REG is used 1 bits starting with 2 bit[0m
-[0;32mI (105) cpu_start: Starting app cpu, entry point is 0x40081028[0m
-[0;32mI (0) cpu_start: App cpu up.[0m
-D (120) clk: RTC_SLOW_CLK calibration value: 3105920[0m
-[0;32mI (132) cpu_start: Pro cpu start user code[0m
-[0;32mI (132) cpu_start: cpu freq: 160000000[0m
-[0;32mI (132) cpu_start: Application information:[0m
-[0;32mI (137) cpu_start: Project name:     Queue_test[0m
-[0;32mI (142) cpu_start: App version:      907520c-dirty[0m
-[0;32mI (147) cpu_start: Compile time:     May 23 2023 11:00:55[0m
-[0;32mI (154) cpu_start: ELF file SHA256:  120a7a33452d6b32...[0m
-[0;32mI (160) cpu_start: ESP-IDF:          4.4.2[0m
-D (164) memory_layout: Checking 7 reserved memory ranges:[0m
-D (170) memory_layout: Reserved memory range 0x3ffae000 - 0x3ffae6e0[0m
-D (176) memory_layout: Reserved memory range 0x3ffb0000 - 0x3ffb2c50[0m
-D (183) memory_layout: Reserved memory range 0x3ffe0000 - 0x3ffe0440[0m
-D (189) memory_layout: Reserved memory range 0x3ffe3f20 - 0x3ffe4350[0m
-D (195) memory_layout: Reserved memory range 0x40070000 - 0x40078000[0m
-D (202) memory_layout: Reserved memory range 0x40078000 - 0x40080000[0m
-D (208) memory_layout: Reserved memory range 0x40080000 - 0x4008b67c[0m
-D (215) memory_layout: Building list of available memory regions:[0m
-D (221) memory_layout: Available memory region 0x3ffae6e0 - 0x3ffb0000[0m
-D (227) memory_layout: Available memory region 0x3ffb2c50 - 0x3ffb8000[0m
-D (234) memory_layout: Available memory region 0x3ffb8000 - 0x3ffc0000[0m
-D (241) memory_layout: Available memory region 0x3ffc0000 - 0x3ffc2000[0m
-D (247) memory_layout: Available memory region 0x3ffc2000 - 0x3ffc4000[0m
-D (254) memory_layout: Available memory region 0x3ffc4000 - 0x3ffc6000[0m
-D (260) memory_layout: Available memory region 0x3ffc6000 - 0x3ffc8000[0m
-D (267) memory_layout: Available memory region 0x3ffc8000 - 0x3ffca000[0m
-D (274) memory_layout: Available memory region 0x3ffca000 - 0x3ffcc000[0m
-D (280) memory_layout: Available memory region 0x3ffcc000 - 0x3ffce000[0m
-D (287) memory_layout: Available memory region 0x3ffce000 - 0x3ffd0000[0m
-D (293) memory_layout: Available memory region 0x3ffd0000 - 0x3ffd2000[0m
-D (300) memory_layout: Available memory region 0x3ffd2000 - 0x3ffd4000[0m
-D (307) memory_layout: Available memory region 0x3ffd4000 - 0x3ffd6000[0m
-D (313) memory_layout: Available memory region 0x3ffd6000 - 0x3ffd8000[0m
-D (320) memory_layout: Available memory region 0x3ffd8000 - 0x3ffda000[0m
-D (326) memory_layout: Available memory region 0x3ffda000 - 0x3ffdc000[0m
-D (333) memory_layout: Available memory region 0x3ffdc000 - 0x3ffde000[0m
-D (340) memory_layout: Available memory region 0x3ffde000 - 0x3ffe0000[0m
-D (346) memory_layout: Available memory region 0x3ffe0440 - 0x3ffe3f20[0m
-D (353) memory_layout: Available memory region 0x3ffe4350 - 0x3ffe8000[0m
-D (359) memory_layout: Available memory region 0x3ffe8000 - 0x3fff0000[0m
-D (366) memory_layout: Available memory region 0x3fff0000 - 0x3fff8000[0m
-D (373) memory_layout: Available memory region 0x3fff8000 - 0x3fffc000[0m
-D (379) memory_layout: Available memory region 0x3fffc000 - 0x40000000[0m
-D (386) memory_layout: Available memory region 0x4008b67c - 0x4008c000[0m
-D (392) memory_layout: Available memory region 0x4008c000 - 0x4008e000[0m
-D (399) memory_layout: Available memory region 0x4008e000 - 0x40090000[0m
-D (406) memory_layout: Available memory region 0x40090000 - 0x40092000[0m
-D (412) memory_layout: Available memory region 0x40092000 - 0x40094000[0m
-D (419) memory_layout: Available memory region 0x40094000 - 0x40096000[0m
-D (425) memory_layout: Available memory region 0x40096000 - 0x40098000[0m
-D (432) memory_layout: Available memory region 0x40098000 - 0x4009a000[0m
-D (439) memory_layout: Available memory region 0x4009a000 - 0x4009c000[0m
-D (445) memory_layout: Available memory region 0x4009c000 - 0x4009e000[0m
-D (452) memory_layout: Available memory region 0x4009e000 - 0x400a0000[0m
-[0;32mI (458) heap_init: Initializing. RAM available for dynamic allocation:[0m
-D (466) heap_init: New heap initialised at 0x3ffae6e0[0m
-[0;32mI (471) heap_init: At 3FFAE6E0 len 00001920 (6 KiB): DRAM[0m
-D (477) heap_init: New heap initialised at 0x3ffb2c50[0m
-[0;32mI (482) heap_init: At 3FFB2C50 len 0002D3B0 (180 KiB): DRAM[0m
-[0;32mI (488) heap_init: At 3FFE0440 len 00003AE0 (14 KiB): D/IRAM[0m
-[0;32mI (494) heap_init: At 3FFE4350 len 0001BCB0 (111 KiB): D/IRAM[0m
-D (501) heap_init: New heap initialised at 0x4008b67c[0m
-[0;32mI (506) heap_init: At 4008B67C len 00014984 (82 KiB): IRAM[0m
-D (513) intr_alloc: Connected src 46 to int 2 (cpu 0)[0m
-D (518) FLASH_HAL: extra_dummy: 1[0m
-D (521) spi_flash: trying chip: issi[0m
-D (524) spi_flash: trying chip: gd[0m
-D (528) spi_flash: trying chip: mxic[0m
-D (532) spi_flash: trying chip: winbond[0m
-D (535) spi_flash: trying chip: generic[0m
-[0;32mI (539) spi_flash: detected chip: generic[0m
-[0;32mI (544) spi_flash: flash io: dio[0m
-D (548) cpu_start: calling init function: 0x400d64d0[0m
-D (553) cpu_start: calling init function: 0x400d1684[0m
-D (558) cpu_start: calling init function: 0x400d0cc4[0m
-D (563) intr_alloc: Connected src 17 to int 3 (cpu 0)[0m
-D (568) intr_alloc: Connected src 24 to int 9 (cpu 0)[0m
-[0;32mI (573) cpu_start: Starting scheduler on PRO CPU.[0m
-D (0) intr_alloc: Connected src 25 to int 2 (cpu 1)[0m
-[0;32mI (0) cpu_start: Starting scheduler on APP CPU.[0m
-D (599) heap_init: New heap initialised at 0x3ffe0440[0m
-D (599) heap_init: New heap initialised at 0x3ffe4350[0m
-D (609) intr_alloc: Connected src 16 to int 12 (cpu 0)[0m
-mWrite int:1
-Write char:Text data: 1�@�}@0
-Recv Buffer int:1
-Recv Buffer str:Text data: 1�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Recv Buffer int:2
-Recv Buffer str:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-ets Jun  8 2016 00:22:57
-
-rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
-configsip: 0, SPIWP:0xee
-clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
-mode:DIO, clock div:2
-load:0x3fff0030,len:4700
-ho 0 tail 12 room 4
-load:0x40078000,len:14304
-load:0x40080400,len:3192
-entry 0x4008060c
-[0;32mI (85) cpu_start: Pro cpu up.[0m
-D (86) efuse: In EFUSE_BLK0__DATA3_REG is used 1 bits starting with 15 bit[0m
-D (86) efuse: In EFUSE_BLK0__DATA5_REG is used 1 bits starting with 20 bit[0m
-D (92) efuse: In EFUSE_BLK0__DATA3_REG is used 3 bits starting with 9 bit[0m
-D (99) efuse: In EFUSE_BLK0__DATA3_REG is used 1 bits starting with 2 bit[0m
-[0;32mI (105) cpu_start: Starting app cpu, entry point is 0x40081028[0m
-[0;32mI (0) cpu_start: App cpu up.[0m
-D (120) clk: RTC_SLOW_CLK calibration value: 3095398[0m
-[0;32mI (132) cpu_start: Pro cpu start user code[0m
-[0;32mI (132) cpu_start: cpu freq: 160000000[0m
-[0;32mI (132) cpu_start: Application information:[0m
-[0;32mI (137) cpu_start: Project name:     Queue_test[0m
-[0;32mI (142) cpu_start: App version:      907520c-dirty[0m
-[0;32mI (148) cpu_start: Compile time:     May 23 2023 11:00:55[0m
-[0;32mI (154) cpu_start: ELF file SHA256:  120a7a33452d6b32...[0m
-[0;32mI (160) cpu_start: ESP-IDF:          4.4.2[0m
-D (165) memory_layout: Checking 7 reserved memory ranges:[0m
-D (170) memory_layout: Reserved memory range 0x3ffae000 - 0x3ffae6e0[0m
-D (176) memory_layout: Reserved memory range 0x3ffb0000 - 0x3ffb2c50[0m
-D (183) memory_layout: Reserved memory range 0x3ffe0000 - 0x3ffe0440[0m
-D (189) memory_layout: Reserved memory range 0x3ffe3f20 - 0x3ffe4350[0m
-D (196) memory_layout: Reserved memory range 0x40070000 - 0x40078000[0m
-D (202) memory_layout: Reserved memory range 0x40078000 - 0x40080000[0m
-D (208) memory_layout: Reserved memory range 0x40080000 - 0x4008b67c[0m
-D (215) memory_layout: Building list of available memory regions:[0m
-D (221) memory_layout: Available memory region 0x3ffae6e0 - 0x3ffb0000[0m
-D (228) memory_layout: Available memory region 0x3ffb2c50 - 0x3ffb8000[0m
-D (234) memory_layout: Available memory region 0x3ffb8000 - 0x3ffc0000[0m
-D (241) memory_layout: Available memory region 0x3ffc0000 - 0x3ffc2000[0m
-D (247) memory_layout: Available memory region 0x3ffc2000 - 0x3ffc4000[0m
-D (254) memory_layout: Available memory region 0x3ffc4000 - 0x3ffc6000[0m
-D (261) memory_layout: Available memory region 0x3ffc6000 - 0x3ffc8000[0m
-D (267) memory_layout: Available memory region 0x3ffc8000 - 0x3ffca000[0m
-D (274) memory_layout: Available memory region 0x3ffca000 - 0x3ffcc000[0m
-D (280) memory_layout: Available memory region 0x3ffcc000 - 0x3ffce000[0m
-D (287) memory_layout: Available memory region 0x3ffce000 - 0x3ffd0000[0m
-D (294) memory_layout: Available memory region 0x3ffd0000 - 0x3ffd2000[0m
-D (300) memory_layout: Available memory region 0x3ffd2000 - 0x3ffd4000[0m
-D (307) memory_layout: Available memory region 0x3ffd4000 - 0x3ffd6000[0m
-D (313) memory_layout: Available memory region 0x3ffd6000 - 0x3ffd8000[0m
-D (320) memory_layout: Available memory region 0x3ffd8000 - 0x3ffda000[0m
-D (327) memory_layout: Available memory region 0x3ffda000 - 0x3ffdc000[0m
-D (333) memory_layout: Available memory region 0x3ffdc000 - 0x3ffde000[0m
-D (340) memory_layout: Available memory region 0x3ffde000 - 0x3ffe0000[0m
-D (346) memory_layout: Available memory region 0x3ffe0440 - 0x3ffe3f20[0m
-D (353) memory_layout: Available memory region 0x3ffe4350 - 0x3ffe8000[0m
-D (360) memory_layout: Available memory region 0x3ffe8000 - 0x3fff0000[0m
-D (366) memory_layout: Available memory region 0x3fff0000 - 0x3fff8000[0m
-D (373) memory_layout: Available memory region 0x3fff8000 - 0x3fffc000[0m
-D (379) memory_layout: Available memory region 0x3fffc000 - 0x40000000[0m
-D (386) memory_layout: Available memory region 0x4008b67c - 0x4008c000[0m
-D (392) memory_layout: Available memory region 0x4008c000 - 0x4008e000[0m
-D (399) memory_layout: Available memory region 0x4008e000 - 0x40090000[0m
-D (406) memory_layout: Available memory region 0x40090000 - 0x40092000[0m
-D (412) memory_layout: Available memory region 0x40092000 - 0x40094000[0m
-D (419) memory_layout: Available memory region 0x40094000 - 0x40096000[0m
-D (425) memory_layout: Available memory region 0x40096000 - 0x40098000[0m
-D (432) memory_layout: Available memory region 0x40098000 - 0x4009a000[0m
-D (439) memory_layout: Available memory region 0x4009a000 - 0x4009c000[0m
-D (445) memory_layout: Available memory region 0x4009c000 - 0x4009e000[0m
-D (452) memory_layout: Available memory region 0x4009e000 - 0x400a0000[0m
-[0;32mI (458) heap_init: Initializing. RAM available for dynamic allocation:[0m
-D (466) heap_init: New heap initialised at 0x3ffae6e0[0m
-[0;32mI (471) heap_init: At 3FFAE6E0 len 00001920 (6 KiB): DRAM[0m
-D (477) heap_init: New heap initialised at 0x3ffb2c50[0m
-[0;32mI (482) heap_init: At 3FFB2C50 len 0002D3B0 (180 KiB): DRAM[0m
-[0;32mI (488) heap_init: At 3FFE0440 len 00003AE0 (14 KiB): D/IRAM[0m
-[0;32mI (495) heap_init: At 3FFE4350 len 0001BCB0 (111 KiB): D/IRAM[0m
-D (501) heap_init: New heap initialised at 0x4008b67c[0m
-[0;32mI (506) heap_init: At 4008B67C len 00014984 (82 KiB): IRAM[0m
-D (513) intr_alloc: Connected src 46 to int 2 (cpu 0)[0m
-D (518) FLASH_HAL: extra_dummy: 1[0m
-D (521) spi_flash: trying chip: issi[0m
-D (525) spi_flash: trying chip: gd[0m
-D (528) spi_flash: trying chip: mxic[0m
-D (532) spi_flash: trying chip: winbond[0m
-D (536) spi_flash: trying chip: generic[0m
-[0;32mI (539) spi_flash: detected chip: generic[0m
-[0;32mI (544) spi_flash: flash io: dio[0m
-D (548) cpu_start: calling init function: 0x400d64d0[0m
-D (553) cpu_start: calling init function: 0x400d1684[0m
-D (558) cpu_start: calling init function: 0x400d0cc4[0m
-D (563) intr_alloc: Connected src 17 to int 3 (cpu 0)[0m
-D (568) intr_alloc: Connected src 24 to int 9 (cpu 0)[0m
-[0;32mI (573) cpu_start: Starting scheduler on PRO CPU.[0m
-D (0) intr_alloc: Connected src 25 to int 2 (cpu 1)[0m
-[0;32mI (0) cpu_start: Starting scheduler on APP CPU.[0m
-D (599) heap_init: New heap initialised at 0x3ffe0440[0m
-D (599) heap_init: New heap initialised at 0x3ffe4350[0m
-D (609) intr_alloc: Connected src 16 to int 12 (cpu 0)[0m
-mWrite int:1
-Write char:Text data: 1�@�}@0
-Recv Buffer int:1
-Recv Buffer str:Text data: 1�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Recv Buffer int:2
-Recv Buffer str:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Recv Buffer int:3
-Recv Buffer str:Text data: 3�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Recv Buffer int:4
-Recv Buffer str:Text data: 4�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Recv Buffer int:5
-Recv Buffer str:Text data: 5�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Recv Buffer int:6
-Recv Buffer str:Text data: 6�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Recv Buffer int:7
-Recv Buffer str:Text data: 7�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Recv Buffer int:8
-Recv Buffer str:Text data: 8�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Recv Buffer int:9
-Recv Buffer str:Text data: 9�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Recv Buffer int:1
-Recv Buffer str:Text data: 1�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Recv Buffer int:2
-Recv Buffer str:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Recv Buffer int:3
-Recv Buffer str:Text data: 3�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Recv Buffer int:4
-Recv Buffer str:Text data: 4�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Recv Buffer int:5
-Recv Buffer str:Text data: 5�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Recv Buffer int:6
-Recv Buffer str:Text data: 6�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Recv Buffer int:7
-Recv Buffer str:Text data: 7�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Recv Buffer int:8
-Recv Buffer str:Text data: 8�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Recv Buffer int:9
-Recv Buffer str:Text data: 9�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Recv Buffer int:1
-Recv Buffer str:Text data: 1�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Recv Buffer int:2
-Recv Buffer str:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Recv Buffer int:3
-Recv Buffer str:Text data: 3�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Recv Buffer int:4
-Recv Buffer str:Text data: 4�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Recv Buffer int:5
-Recv Buffer str:Text data: 5�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Recv Buffer int:6
-Recv Buffer str:Text data: 6�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Recv Buffer int:7
-Recv Buffer str:Text data: 7�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Recv Buffer int:8
-Recv Buffer str:Text data: 8�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Recv Buffer int:9
-Recv Buffer str:Text data: 9�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Recv Buffer int:1
-Recv Buffer str:Text data: 1�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Recv Buffer int:2
-Recv Buffer str:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Recv Buffer int:3
-Recv Buffer str:Text data: 3�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Recv Buffer int:4
-Recv Buffer str:Text data: 4�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Recv Buffer int:5
-Recv Buffer str:Text data: 5�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Recv Buffer int:6
-Recv Buffer str:Text data: 6�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Recv Buffer int:7
-Recv Buffer str:Text data: 7�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Recv Buffer int:8
-Recv Buffer str:Text data: 8�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Recv Buffer int:9
-Recv Buffer str:Text data: 9�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Recv Buffer int:1
-Recv Buffer str:Text data: 1�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Recv Buffer int:2
-Recv Buffer str:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Recv Buffer int:3
-Recv Buffer str:Text data: 3�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Recv Buffer int:4
-Recv Buffer str:Text data: 4�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Recv Buffer int:5
-Recv Buffer str:Text data: 5�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Recv Buffer int:7
-Recv Buffer str:Text data: 7�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Recv Buffer int:9
-Recv Buffer str:Text data: 9�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Recv Buffer int:2
-Recv Buffer str:Text data: 2�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Recv Buffer int:4
-Recv Buffer str:Text data: 4�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Recv Buffer int:6
-Recv Buffer str:Text data: 6�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Recv Buffer int:8
-Recv Buffer str:Text data: 8�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Recv Buffer int:1
-Recv Buffer str:Text data: 1�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Recv Buffer int:3
-Recv Buffer str:Text data: 3�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Recv Buffer int:5
-Recv Buffer str:Text data: 5�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Recv Buffer int:7
-Recv Buffer str:Text data: 7�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Recv Buffer int:9
-Recv Buffer str:Text data: 9�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Recv Buffer int:2
-Recv Buffer str:Text data: 2�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Recv Buffer int:4
-Recv Buffer str:Text data: 4�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Recv Buffer int:6
-Recv Buffer str:Text data: 6�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Recv Buffer int:8
-Recv Buffer str:Text data: 8�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Recv Buffer int:1
-Recv Buffer str:Text data: 1�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Recv Buffer int:3
-Recv Buffer str:Text data: 3�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Recv Buffer int:5
-Recv Buffer str:Text data: 5�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Recv Buffer int:7
-Recv Buffer str:Text data: 7�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Recv Buffer int:9
-Recv Buffer str:Text data: 9�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Recv Buffer int:2
-Recv Buffer str:Text data: 2�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Recv Buffer int:4
-Recv Buffer str:Text data: 4�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Recv Buffer int:6
-Recv Buffer str:Text data: 6�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Recv Buffer int:8
-Recv Buffer str:Text data: 8�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Recv Buffer int:1
-Recv Buffer str:Text data: 1�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Recv Buffer int:3
-Recv Buffer str:Text data: 3�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Recv Buffer int:5
-Recv Buffer str:Text data: 5�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Recv Buffer int:7
-Recv Buffer str:Text data: 7�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Recv Buffer int:9
-Recv Buffer str:Text data: 9�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Recv Buffer int:2
-Recv Buffer str:Text data: 2�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Recv Buffer int:4
-Recv Buffer str:Text data: 4�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Recv Buffer int:6
-Recv Buffer str:Text data: 6�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Recv Buffer int:8
-Recv Buffer str:Text data: 8�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Recv Buffer int:1
-Recv Buffer str:Text data: 1�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Recv Buffer int:3
-Recv Buffer str:Text data: 3�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Recv Buffer int:5
-Recv Buffer str:Text data: 5�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Recv Buffer int:7
-Recv Buffer str:Text data: 7�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Recv Buffer int:9
-Recv Buffer str:Text data: 9�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Recv Buffer int:2
-Recv Buffer str:Text data: 2�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Recv Buffer int:4
-Recv Buffer str:Text data: 4�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Recv Buffer int:6
-Recv Buffer str:Text data: 6�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Recv Buffer int:8
-Recv Buffer str:Text data: 8�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Recv Buffer int:1
-Recv Buffer str:Text data: 1�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Recv Buffer int:3
-Recv Buffer str:Text data: 3�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Recv Buffer int:5
-Recv Buffer str:Text data: 5�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Recv Buffer int:7
-Recv Buffer str:Text data: 7�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Recv Buffer int:9
-Recv Buffer str:Text data: 9�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Recv Buffer int:2
-Recv Buffer str:Text data: 2�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Recv Buffer int:4
-Recv Buffer str:Text data: 4�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Recv Buffer int:6
-Recv Buffer str:Text data: 6�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Recv Buffer int:8
-Recv Buffer str:Text data: 8�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Recv Buffer int:1
-Recv Buffer str:Text data: 1�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Recv Buffer int:3
-Recv Buffer str:Text data: 3�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Recv Buffer int:5
-Recv Buffer str:Text data: 5�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Recv Buffer int:7
-Recv Buffer str:Text data: 7�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Recv Buffer int:9
-Recv Buffer str:Text data: 9�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Recv Buffer int:2
-Recv Buffer str:Text data: 2�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Recv Buffer int:4
-Recv Buffer str:Text data: 4�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Recv Buffer int:6
-Recv Buffer str:Text data: 6�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Recv Buffer int:8
-Recv Buffer str:Text data: 8�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Recv Buffer int:1
-Recv Buffer str:Text data: 1�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Recv Buffer int:3
-Recv Buffer str:Text data: 3�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Recv Buffer int:5
-Recv Buffer str:Text data: 5�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Recv Buffer int:7
-Recv Buffer str:Text data: 7�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Recv Buffer int:9
-Recv Buffer str:Text data: 9�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Recv Buffer int:2
-Recv Buffer str:Text data: 2�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Recv Buffer int:4
-Recv Buffer str:Text data: 4�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Recv Buffer int:6
-Recv Buffer str:Text data: 6�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Recv Buffer int:8
-Recv Buffer str:Text data: 8�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Recv Buffer int:1
-Recv Buffer str:Text data: 1�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Recv Buffer int:3
-Recv Buffer str:Text data: 3�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Recv Buffer int:5
-Recv Buffer str:Text data: 5�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Recv Buffer int:7
-Recv Buffer str:Text data: 7�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Recv Buffer int:9
-Recv Buffer str:Text data: 9�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Recv Buffer int:2
-Recv Buffer str:Text data: 2�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Recv Buffer int:4
-Recv Buffer str:Text data: 4�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Recv Buffer int:6
-Recv Buffer str:Text data: 6�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Recv Buffer int:8
-Recv Buffer str:Text data: 8�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Recv Buffer int:1
-Recv Buffer str:Text data: 1�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Recv Buffer int:3
-Recv Buffer str:Text data: 3�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Recv Buffer int:5
-Recv Buffer str:Text data: 5�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Recv Buffer int:7
-Recv Buffer str:Text data: 7�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Recv Buffer int:9
-Recv Buffer str:Text data: 9�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Recv Buffer int:2
-Recv Buffer str:Text data: 2�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Recv Buffer int:4
-Recv Buffer str:Text data: 4�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Recv Buffer int:6
-Recv Buffer str:Text data: 6�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Recv Buffer int:8
-Recv Buffer str:Text data: 8�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
-Recv Buffer int:1
-Recv Buffer str:Text data: 1�@�}@0
-Write int:5
-Write char:Text data: 5�@�}@0
-Write int:6
-Write char:Text data: 6�@�}@0
-Recv Buffer int:3
-Recv Buffer str:Text data: 3�@�}@0
-Write int:7
-Write char:Text data: 7�@�}@0
-Write int:8
-Write char:Text data: 8�@�}@0
-Recv Buffer int:5
-Recv Buffer str:Text data: 5�@�}@0
-Write int:9
-Write char:Text data: 9�@�}@0
-Write int:1
-Write char:Text data: 1�@�}@0
-Recv Buffer int:7
-Recv Buffer str:Text data: 7�@�}@0
-Write int:2
-Write char:Text data: 2�@�}@0
-Write int:3
-Write char:Text data: 3�@�}@0
-Recv Buffer int:9
-Recv Buffer str:Text data: 9�@�}@0
-Write int:4
-Write char:Text data: 4�@�}@0
