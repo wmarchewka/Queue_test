@@ -1,0 +1,965 @@
+��+L[C��+L���[$�NS�%H[XZ�� Write Time:397537  Int:28  Str:Text data:28
+[0m
+[0;33mW (969) main: Write Time:405496  Int:29  Str:Text data:29
+[0m
+[0;31mE (979) main: Recv Time:407535  Int:18   Str:Text data:18
+[0m
+[0;33mW (989) main: Write Time:417537  Int:30  Str:Text data:30
+[0m
+[0;33mW (989) main: Write Time:424246  Int:31  Str:Text data:31
+[0m
+[0;31mE (999) main: Recv Time:427535  Int:19   Str:Text data:19
+[0m
+[0;33mW (999) main: Write Time:436745  Int:32  Str:Text data:32
+[0m
+[0;31mE (1009) main: Recv Time:437535  Int:20   Str:Text data:20
+[0m
+[0;33mW (1019) main: Write Time:447537  Int:33  Str:Text data:33
+[0m
+[0;33mW (1019) main: Write Time:455669  Int:34  Str:Text data:34
+[0m
+[0;31mE (1029) main: Recv Time:457535  Int:21   Str:Text data:21
+[0m
+[0;33mW (1039) main: Write Time:467537  Int:35  Str:Text data:35
+[0m
+[0;33mW (1039) main: Write Time:474679  Int:36  Str:Text data:36
+[0m
+[0;31mE (1049) main: Recv Time:477535  Int:22   Str:Text data:22
+[0m
+[0;33mW (1049) main: Write Time:487352  Int:37  Str:Text data:37
+[0m
+[0;31mE (1059) main: Recv Time:487535  Int:23   Str:Text data:23
+[0m
+[0;33mW (1069) main: Write Time:497537  Int:38  Str:Text data:38
+[0m
+[0;33mW (1069) main: Write Time:506363  Int:39  Str:Text data:39
+[0m
+[0;31mE (1079) main: Recv Time:507535  Int:24   Str:Text data:24
+[0m
+[0;33mW (1089) main: Write Time:517537  Int:40  Str:Text data:40
+[0m
+[0;33mW (1089) main: Write Time:525373  Int:41  Str:Text data:41
+[0m
+[0;31mE (1099) main: Recv Time:527535  Int:25   Str:Text data:25
+[0m
+[0;33mW (1109) main: Write Time:537537  Int:42  Str:Text data:42
+[0m
+[0;33mW (1109) main: Write Time:544383  Int:43  Str:Text data:43
+[0m
+[0;31mE (1119) main: Recv Time:547535  Int:26   Str:Text data:26
+[0m
+[0;33mW (1119) main: Write Time:557057  Int:44  Str:Text data:44
+[0m
+[0;31mE (1129) main: Recv Time:557535  Int:27   Str:Text data:27
+[0m
+[0;33mW (1139) main: Write Time:567537  Int:45  Str:Text data:45
+[0m
+[0;33mW (1139) main: Write Time:576067  Int:46  Str:Text data:46
+[0m
+[0;31mE (1149) main: Recv Time:577535  Int:28   Str:Text data:28
+[0m
+[0;33mW (1159) main: Write Time:587537  Int:47  Str:Text data:47
+[0m
+[0;33mW (1159) main: Write Time:595077  Int:48  Str:Text data:48
+[0m
+[0;31mE (1169) main: Recv Time:597535  Int:29   Str:Text data:29
+[0m
+[0;33mW (1179) main: Write Time:607537  Int:49  Str:Text data:49
+[0m
+[0;33mW (1179) main: Write Time:614088  Int:50  Str:Text data:50
+[0m
+[0;31mE (1189) main: Recv Time:617535  Int:30   Str:Text data:30
+[0m
+[0;33mW (1189) main: Write Time:626761  Int:51  Str:Text data:51
+[0m
+[0;31mE (1199) main: Recv Time:627535  Int:31   Str:Text data:31
+[0m
+[0;33mW (1209) main: Write Time:637537  Int:52  Str:Text data:52
+[0m
+[0;33mW (1209) main: Write Time:645771  Int:53  Str:Text data:53
+[0m
+[0;31mE (1219) main: Recv Time:647535  Int:32   Str:Text data:32
+[0m
+[0;33mW (1229) main: Write Time:657537  Int:54  Str:Text data:54
+[0m
+[0;33mW (1229) main: Write Time:664782  Int:55  Str:Text data:55
+[0m
+[0;31mE (1239) main: Recv Time:667535  Int:33   Str:Text data:33
+[0m
+[0;33mW (1239) main: Write Time:677455  Int:56  Str:Text data:56
+[0m
+[0;31mE (1249) main: Recv Time:677536  Int:34   Str:Text data:34
+[0m
+[0;33mW (1259) main: Write Time:687537  Int:57  Str:Text data:57
+[0m
+[0;33mW (1259) main: Write Time:696465  Int:58  Str:Text data:58
+[0m
+[0;31mE (1269) main: Recv Time:697535  Int:35   Str:Text data:35
+[0m
+[0;33mW (1279) main: Write Time:707537  Int:59  Str:Text data:59
+[0m
+[0;33mW (1279) main: Write Time:715476  Int:60  Str:Text data:60
+[0m
+[0;31mE (1289) main: Recv Time:717535  Int:36   Str:Text data:36
+[0m
+[0;33mW (1299) main: Write Time:727537  Int:61  Str:Text data:61
+[0m
+[0;33mW (1299) main: Write Time:734486  Int:62  Str:Text data:62
+[0m
+[0;31mE (1309) main: Recv Time:737535  Int:37   Str:Text data:37
+[0m
+[0;33mW (1309) main: Write Time:747159  Int:63  Str:Text data:63
+[0m
+[0;31mE (1319) main: Recv Time:747535  Int:38   Str:Text data:38
+[0m
+[0;33mW (1329) main: Write Time:757537  Int:64  Str:Text data:64
+[0m
+[0;33mW (1329) main: Write Time:766169  Int:65  Str:Text data:65
+[0m
+[0;31mE (1339) main: Recv Time:767535  Int:39   Str:Text data:39
+[0m
+[0;33mW (1349) main: Write Time:777537  Int:66  Str:Text data:66
+[0m
+[0;33mW (1349) main: Write Time:785180  Int:67  Str:Text data:67
+[0m
+[0;31mE (1359) main: Recv Time:787535  Int:40   Str:Text data:40
+[0m
+[0;33mW (1369) main: Write Time:797537  Int:68  Str:Text data:68
+[0m
+[0;33mW (1369) main: Write Time:804190  Int:69  Str:Text data:69
+[0m
+[0;31mE (1379) main: Recv Time:807535  Int:41   Str:Text data:41
+[0m
+[0;33mW (1379) main: Write Time:816863  Int:70  Str:Text data:70
+[0m
+[0;31mE (1389) main: Recv Time:817535  Int:42   Str:Text data:42
+[0m
+[0;33mW (1399) main: Write Time:827537  Int:71  Str:Text data:71
+[0m
+[0;33mW (1399) main: Write Time:835874  Int:72  Str:Text data:72
+[0m
+[0;31mE (1409) main: Recv Time:837535  Int:43   Str:Text data:43
+[0m
+[0;33mW (1419) main: Write Time:847537  Int:73  Str:Text data:73
+[0m
+[0;33mW (1419) main: Write Time:854884  Int:74  Str:Text data:74
+[0m
+[0;31mE (1429) main: Recv Time:857535  Int:44   Str:Text data:44
+[0m
+[0;33mW (1439) main: Write Time:867539  Int:75  Str:Text data:75
+[0m
+[0;33mW (1439) main: Write Time:873894  Int:76  Str:Text data:76
+[0m
+[0;31mE (1449) main: Recv Time:880227  Int:45   Str:Text data:45
+[0m
+[0;33mW (1449) main: Write Time:881734  Int:77  Str:Text data:77
+[0m
+[0;33mW (1459) main: Write Time:892905  Int:78  Str:Text data:78
+[0m
+[0;31mE (1469) main: Recv Time:899237  Int:46   Str:Text data:46
+[0m
+[0;33mW (1469) main: Write Time:901734  Int:79  Str:Text data:79
+[0m
+[0;33mW (1479) main: Write Time:911915  Int:80  Str:Text data:80
+[0m
+[0;31mE (1489) main: Recv Time:918248  Int:47   Str:Text data:47
+[0m
+[0;33mW (1489) main: Write Time:921734  Int:81  Str:Text data:81
+[0m
+[0;33mW (1499) main: Write Time:930925  Int:82  Str:Text data:82
+[0m
+[0;33mW (1499) main: Write Time:937262  Int:83  Str:Text data:83
+[0m
+[0;31mE (1509) main: Recv Time:941730  Int:48   Str:Text data:48
+[0m
+[0;33mW (1519) main: Write Time:949935  Int:84  Str:Text data:84
+[0m
+[0;33mW (1519) main: Write Time:956272  Int:85  Str:Text data:85
+[0m
+[0;31mE (1529) main: Recv Time:961730  Int:49   Str:Text data:49
+[0m
+[0;33mW (1539) main: Write Time:968945  Int:86  Str:Text data:86
+[0m
+[0;33mW (1539) main: Write Time:975282  Int:87  Str:Text data:87
+[0m
+[0;31mE (1549) main: Recv Time:981615  Int:50   Str:Text data:50
+[0m
+[0;33mW (1549) main: Write Time:981734  Int:88  Str:Text data:88
+[0m
+[0;33mW (1559) main: Write Time:994292  Int:89  Str:Text data:89
+[0m
+[0;31mE (1569) main: Recv Time:1000625  Int:51   Str:Text data:51
+[0m
+[0;33mW (1569) main: Write Time:1001734  Int:90  Str:Text data:90
+[0m
+[0;33mW (1579) main: Write Time:1013476  Int:91  Str:Text data:91
+[0m
+[0;31mE (1589) main: Recv Time:1019896  Int:52   Str:Text data:52
+[0m
+[0;33mW (1589) main: Write Time:1021734  Int:92  Str:Text data:92
+[0m
+[0;33mW (1599) main: Write Time:1032747  Int:93  Str:Text data:93
+[0m
+[0;31mE (1609) main: Recv Time:1039167  Int:53   Str:Text data:53
+[0m
+[0;33mW (1609) main: Write Time:1041734  Int:94  Str:Text data:94
+[0m
+[0;33mW (1619) main: Write Time:1052018  Int:95  Str:Text data:95
+[0m
+[0;31mE (1629) main: Recv Time:1058437  Int:54   Str:Text data:54
+[0m
+[0;33mW (1629) main: Write Time:1061734  Int:96  Str:Text data:96
+[0m
+[0;33mW (1639) main: Write Time:1071288  Int:97  Str:Text data:97
+[0m
+[0;31mE (1649) main: Recv Time:1077534  Int:55   Str:Text data:55
+[0m
+[0;33mW (1649) main: Write Time:1081734  Int:98  Str:Text data:98
+[0m
+[0;33mW (1659) main: Write Time:1090559  Int:99  Str:Text data:99
+[0m
+[0;31mE (1669) main: Recv Time:1101730  Int:56   Str:Text data:56
+[0m
+[0;31mE (1679) main: Recv Time:1107534  Int:57   Str:Text data:57
+[0m
+[0;31mE (1689) main: Recv Time:1117534  Int:58   Str:Text data:58
+[0m
+[0;31mE (1699) main: Recv Time:1127534  Int:59   Str:Text data:59
+[0m
+[0;31mE (1709) main: Recv Time:1137534  Int:60   Str:Text data:60
+[0m
+[0;31mE (1719) main: Recv Time:1147534  Int:61   Str:Text data:61
+[0m
+[0;31mE (1729) main: Recv Time:1157534  Int:62   Str:Text data:62
+[0m
+[0;31mE (1739) main: Recv Time:1167534  Int:63   Str:Text data:63
+[0m
+[0;31mE (1749) main: Recv Time:1177534  Int:64   Str:Text data:64
+[0m
+[0;31mE (1759) main: Recv Time:1187534  Int:65   Str:Text data:65
+[0m
+[0;31mE (1769) main: Recv Time:1197534  Int:66   Str:Text data:66
+[0m
+[0;31mE (1779) main: Recv Time:1207534  Int:67   Str:Text data:67
+[0m
+[0;31mE (1789) main: Recv Time:1217534  Int:68   Str:Text data:68
+[0m
+[0;31mE (1799) main: Recv Time:1227534  Int:69   Str:Text data:69
+[0m
+[0;31mE (1809) main: Recv Time:1237534  Int:70   Str:Text data:70
+[0m
+[0;31mE (1819) main: Recv Time:1247534  Int:71   Str:Text data:71
+[0m
+[0;31mE (1829) main: Recv Time:1257534  Int:72   Str:Text data:72
+[0m
+[0;31mE (1839) main: Recv Time:1267534  Int:73   Str:Text data:73
+[0m
+[0;31mE (1849) main: Recv Time:1277534  Int:74   Str:Text data:74
+[0m
+[0;31mE (1859) main: Recv Time:1287534  Int:75   Str:Text data:75
+[0m
+[0;31mE (1869) main: Recv Time:1297534  Int:76   Str:Text data:76
+[0m
+[0;31mE (1879) main: Recv Time:1307534  Int:77   Str:Text data:77
+[0m
+[0;31mE (1889) main: Recv Time:1317534  Int:78   Str:Text data:78
+[0m
+[0;31mE (1899) main: Recv Time:1327534  Int:79   Str:Text data:79
+[0m
+[0;31mE (1909) main: Recv Time:1337534  Int:80   Str:Text data:80
+[0m
+[0;31mE (1919) main: Recv Time:1347534  Int:81   Str:Text data:81
+[0m
+[0;31mE (1929) main: Recv Time:1357534  Int:82   Str:Text data:82
+[0m
+[0;31mE (1939) main: Recv Time:1367534  Int:83   Str:Text data:83
+[0m
+[0;31mE (1949) main: Recv Time:1377534  Int:84   Str:Text data:84
+[0m
+[0;31mE (1959) main: Recv Time:1387534  Int:85   Str:Text data:85
+[0m
+[0;31mE (1969) main: Recv Time:1397534  Int:86   Str:Text data:86
+[0m
+[0;31mE (1979) main: Recv Time:1407534  Int:87   Str:Text data:87
+[0m
+[0;31mE (1989) main: Recv Time:1417534  Int:88   Str:Text data:88
+[0m
+[0;31mE (1999) main: Recv Time:1427534  Int:89   Str:Text data:89
+[0m
+[0;31mE (2009) main: Recv Time:1437534  Int:90   Str:Text data:90
+[0m
+[0;31mE (2019) main: Recv Time:1447534  Int:91   Str:Text data:91
+[0m
+[0;31mE (2029) main: Recv Time:1457534  Int:92   Str:Text data:92
+[0m
+[0;31mE (2039) main: Recv Time:1467534  Int:93   Str:Text data:93
+[0m
+[0;31mE (2049) main: Recv Time:1477534  Int:94   Str:Text data:94
+[0m
+[0;31mE (2059) main: Recv Time:1487534  Int:95   Str:Text data:95
+[0m
+[0;31mE (2069) main: Recv Time:1497534  Int:96   Str:Text data:96
+[0m
+[0;31mE (2079) main: Recv Time:1507534  Int:97   Str:Text data:97
+[0m
+[0;31mE (2089) main: Recv Time:1517534  Int:98   Str:Text data:98
+[0m
+[0;31mE (2099) main: Recv Time:1527534  Int:99   Str:Text data:99
+[0m
+[0;31mE (6429) task_wdt: Task watchdog got triggered. The following tasks did not reset the watchdog in time:[0m
+[0;31mE (6429) task_wdt:  - IDLE (CPU 0)[0m
+[0;31mE (6429) task_wdt: Tasks currently running:[0m
+[0;31mE (6429) task_wdt: CPU 0: udp_task[0m
+[0;31mE (6429) task_wdt: CPU 1: IDLE[0m
+[0;31mE (6429) task_wdt: Print CPU 0 (current core) backtrace[0m
+
+
+Backtrace: 0x400F1D2F:0x3FFB0630 0x4008203D:0x3FFB0650 0x400D16CE:0x3FFC3200 0x400880AD:0x3FFC32C0
+
+
+[0;31mE (6429) task_wdt: Print CPU 1 backtrace[0m
+
+
+Backtrace: 0x40084379:0x3FFB0C30 0x4008203D:0x3FFB0C50 0x4000BFED:0x3FFC40C0 0x4008835E:0x3FFC40D0 0x400F1F72:0x3FFC40F0 0x400F1F97:0x3FFC4120 0x400D2761:0x3FFC4140 0x400869E1:0x3FFC4160 0x400880AD:0x3FFC4180
+
+
+ets Jun  8 2016 00:22:57
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:4700
+ho 0 tail 12 room 4
+load:0x40078000,len:14304
+load:0x40080400,len:3192
+entry 0x4008060c
+[0;32mI (160) cpu_start: Pro cpu up.[0m
+D (160) efuse: In EFUSE_BLK0__DATA3_REG is used 1 bits starting with 15 bit[0m
+D (160) efuse: In EFUSE_BLK0__DATA5_REG is used 1 bits starting with 20 bit[0m
+D (166) efuse: In EFUSE_BLK0__DATA3_REG is used 3 bits starting with 9 bit[0m
+D (173) efuse: In EFUSE_BLK0__DATA3_REG is used 1 bits starting with 2 bit[0m
+[0;32mI (180) cpu_start: Starting app cpu, entry point is 0x400810d8[0m
+[0;32mI (0) cpu_start: App cpu up.[0m
+D (194) clk: RTC_SLOW_CLK calibration value: 3122304[0m
+[0;32mI (207) cpu_start: Pro cpu start user code[0m
+[0;32mI (207) cpu_start: cpu freq: 160000000[0m
+[0;32mI (207) cpu_start: Application information:[0m
+[0;32mI (211) cpu_start: Project name:     Queue_test[0m
+[0;32mI (217) cpu_start: App version:      ec94238-dirty[0m
+[0;32mI (222) cpu_start: Compile time:     May 23 2023 14:19:15[0m
+[0;32mI (228) cpu_start: ELF file SHA256:  f2e662825b38cfb9...[0m
+[0;32mI (234) cpu_start: ESP-IDF:          4.4.2[0m
+D (239) memory_layout: Checking 7 reserved memory ranges:[0m
+D (244) memory_layout: Reserved memory range 0x3ffae000 - 0x3ffae6e0[0m
+D (251) memory_layout: Reserved memory range 0x3ffb0000 - 0x3ffb4358[0m
+D (257) memory_layout: Reserved memory range 0x3ffe0000 - 0x3ffe0440[0m
+D (264) memory_layout: Reserved memory range 0x3ffe3f20 - 0x3ffe4350[0m
+D (270) memory_layout: Reserved memory range 0x40070000 - 0x40078000[0m
+D (277) memory_layout: Reserved memory range 0x40078000 - 0x40080000[0m
+D (283) memory_layout: Reserved memory range 0x40080000 - 0x4008b940[0m
+D (289) memory_layout: Building list of available memory regions:[0m
+D (296) memory_layout: Available memory region 0x3ffae6e0 - 0x3ffb0000[0m
+D (302) memory_layout: Available memory region 0x3ffb4358 - 0x3ffb8000[0m
+D (309) memory_layout: Available memory region 0x3ffb8000 - 0x3ffc0000[0m
+D (315) memory_layout: Available memory region 0x3ffc0000 - 0x3ffc2000[0m
+D (322) memory_layout: Available memory region 0x3ffc2000 - 0x3ffc4000[0m
+D (329) memory_layout: Available memory region 0x3ffc4000 - 0x3ffc6000[0m
+D (335) memory_layout: Available memory region 0x3ffc6000 - 0x3ffc8000[0m
+D (342) memory_layout: Available memory region 0x3ffc8000 - 0x3ffca000[0m
+D (348) memory_layout: Available memory region 0x3ffca000 - 0x3ffcc000[0m
+D (355) memory_layout: Available memory region 0x3ffcc000 - 0x3ffce000[0m
+D (361) memory_layout: Available memory region 0x3ffce000 - 0x3ffd0000[0m
+D (368) memory_layout: Available memory region 0x3ffd0000 - 0x3ffd2000[0m
+D (375) memory_layout: Available memory region 0x3ffd2000 - 0x3ffd4000[0m
+D (381) memory_layout: Available memory region 0x3ffd4000 - 0x3ffd6000[0m
+D (388) memory_layout: Available memory region 0x3ffd6000 - 0x3ffd8000[0m
+D (394) memory_layout: Available memory region 0x3ffd8000 - 0x3ffda000[0m
+D (401) memory_layout: Available memory region 0x3ffda000 - 0x3ffdc000[0m
+D (408) memory_layout: Available memory region 0x3ffdc000 - 0x3ffde000[0m
+D (414) memory_layout: Available memory region 0x3ffde000 - 0x3ffe0000[0m
+D (421) memory_layout: Available memory region 0x3ffe0440 - 0x3ffe3f20[0m
+D (427) memory_layout: Available memory region 0x3ffe4350 - 0x3ffe8000[0m
+D (434) memory_layout: Available memory region 0x3ffe8000 - 0x3fff0000[0m
+D (441) memory_layout: Available memory region 0x3fff0000 - 0x3fff8000[0m
+D (447) memory_layout: Available memory region 0x3fff8000 - 0x3fffc000[0m
+D (454) memory_layout: Available memory region 0x3fffc000 - 0x40000000[0m
+D (460) memory_layout: Available memory region 0x4008b940 - 0x4008c000[0m
+D (467) memory_layout: Available memory region 0x4008c000 - 0x4008e000[0m
+D (474) memory_layout: Available memory region 0x4008e000 - 0x40090000[0m
+D (480) memory_layout: Available memory region 0x40090000 - 0x40092000[0m
+D (487) memory_layout: Available memory region 0x40092000 - 0x40094000[0m
+D (493) memory_layout: Available memory region 0x40094000 - 0x40096000[0m
+D (500) memory_layout: Available memory region 0x40096000 - 0x40098000[0m
+D (507) memory_layout: Available memory region 0x40098000 - 0x4009a000[0m
+D (513) memory_layout: Available memory region 0x4009a000 - 0x4009c000[0m
+D (520) memory_layout: Available memory region 0x4009c000 - 0x4009e000[0m
+D (526) memory_layout: Available memory region 0x4009e000 - 0x400a0000[0m
+[0;32mI (533) heap_init: Initializing. RAM available for dynamic allocation:[0m
+D (540) heap_init: New heap initialised at 0x3ffae6e0[0m
+[0;32mI (545) heap_init: At 3FFAE6E0 len 00001920 (6 KiB): DRAM[0m
+D (551) heap_init: New heap initialised at 0x3ffb4358[0m
+[0;32mI (557) heap_init: At 3FFB4358 len 0002BCA8 (175 KiB): DRAM[0m
+[0;32mI (563) heap_init: At 3FFE0440 len 00003AE0 (14 KiB): D/IRAM[0m
+[0;32mI (569) heap_init: At 3FFE4350 len 0001BCB0 (111 KiB): D/IRAM[0m
+D (576) heap_init: New heap initialised at 0x4008b940[0m
+[0;32mI (581) heap_init: At 4008B940 len 000146C0 (81 KiB): IRAM[0m
+D (587) intr_alloc: Connected src 46 to int 2 (cpu 0)[0m
+D (593) FLASH_HAL: extra_dummy: 1[0m
+D (595) spi_flash: trying chip: issi[0m
+D (599) spi_flash: trying chip: gd[0m
+D (603) spi_flash: trying chip: mxic[0m
+D (606) spi_flash: trying chip: winbond[0m
+D (610) spi_flash: trying chip: generic[0m
+[0;32mI (614) spi_flash: detected chip: generic[0m
+[0;32mI (619) spi_flash: flash io: dio[0m
+D (623) cpu_start: calling init function: 0x400f1a48[0m
+D (628) cpu_start: calling init function: 0x400ec574[0m
+D (633) cpu_start: calling init function: 0x400e7e40[0m
+D (638) cpu_start: calling init function: 0x400e1124[0m
+D (643) cpu_start: calling init function: 0x400de9c4[0m
+D (648) cpu_start: calling init function: 0x400d70e0[0m
+D (653) cpu_start: calling init function: 0x400d6cb4[0m
+D (658) cpu_start: calling init function: 0x400d24f0[0m
+D (663) cpu_start: calling init function: 0x400d1848[0m
+D (668) cpu_start: calling init function: 0x400d1820[0m
+D (676) intr_alloc: Connected src 17 to int 3 (cpu 0)[0m
+D (678) intr_alloc: Connected src 24 to int 9 (cpu 0)[0m
+[0;32mI (683) cpu_start: Starting scheduler on PRO CPU.[0m
+D (0) intr_alloc: Connected src 25 to int 2 (cpu 1)[0m
+[0;32mI (0) cpu_start: Starting scheduler on APP CPU.[0m
+D (709) heap_init: New heap initialised at 0x3ffe0440[0m
+D (709) heap_init: New heap initialised at 0x3ffe4350[0m
+D (719) intr_alloc: Connected src 16 to int 12 (cpu 0)[0m
+m[0;33mW (719) main: Write Time:127474  Int:1  Str:Text data:1
+[0m
+[0;31mE (699) main: Recv Time:133460  Int:1   Str:Text data:1
+[0m
+[0;33mW (709) main: Write Time:137549  Int:2  Str:Text data:2
+[0m
+[0;33mW (709) main: Write Time:145603  Int:3  Str:Text data:3
+[0m
+[0;31mE (719) main: Recv Time:147540  Int:2   Str:Text data:2
+[0m
+[0;33mW (729) main: Write Time:157537  Int:4  Str:Text data:4
+[0m
+[0;33mW (729) main: Write Time:163832  Int:5  Str:Text data:5
+[0m
+[0;31mE (739) main: Recv Time:167535  Int:3   Str:Text data:3
+[0m
+[0;33mW (739) main: Write Time:175984  Int:6  Str:Text data:6
+[0m
+[0;31mE (749) main: Recv Time:177535  Int:4   Str:Text data:4
+[0m
+[0;33mW (759) main: Write Time:187537  Int:7  Str:Text data:7
+[0m
+[0;33mW (759) main: Write Time:194213  Int:8  Str:Text data:8
+[0m
+[0;31mE (769) main: Recv Time:197535  Int:5   Str:Text data:5
+[0m
+[0;33mW (769) main: Write Time:206366  Int:9  Str:Text data:9
+[0m
+[0;31mE (779) main: Recv Time:207535  Int:6   Str:Text data:6
+[0m
+[0;33mW (789) main: Write Time:217537  Int:10  Str:Text data:10
+[0m
+[0;33mW (789) main: Write Time:224769  Int:11  Str:Text data:11
+[0m
+[0;31mE (799) main: Recv Time:227535  Int:7   Str:Text data:7
+[0m
+[0;33mW (799) main: Write Time:237094  Int:12  Str:Text data:12
+[0m
+[0;31mE (809) main: Recv Time:237535  Int:8   Str:Text data:8
+[0m
+[0;33mW (819) main: Write Time:247537  Int:13  Str:Text data:13
+[0m
+[0;33mW (819) main: Write Time:255671  Int:14  Str:Text data:14
+[0m
+[0;31mE (829) main: Recv Time:257535  Int:9   Str:Text data:9
+[0m
+[0;33mW (839) main: Write Time:267537  Int:15  Str:Text data:15
+[0m
+[0;33mW (839) main: Write Time:274247  Int:16  Str:Text data:16
+[0m
+[0;31mE (849) main: Recv Time:277535  Int:10   Str:Text data:10
+[0m
+[0;33mW (849) main: Write Time:286747  Int:17  Str:Text data:17
+[0m
+[0;31mE (859) main: Recv Time:287535  Int:11   Str:Text data:11
+[0m
+[0;33mW (869) main: Write Time:297537  Int:18  Str:Text data:18
+[0m
+[0;33mW (869) main: Write Time:305497  Int:19  Str:Text data:19
+[0m
+[0;31mE (879) main: Recv Time:307535  Int:12   Str:Text data:12
+[0m
+[0;33mW (889) main: Write Time:317537  Int:20  Str:Text data:20
+[0m
+[0;33mW (889) main: Write Time:324247  Int:21  Str:Text data:21
+[0m
+[0;31mE (899) main: Recv Time:327535  Int:13   Str:Text data:13
+[0m
+[0;33mW (899) main: Write Time:336746  Int:22  Str:Text data:22
+[0m
+[0;31mE (909) main: Recv Time:337535  Int:14   Str:Text data:14
+[0m
+[0;33mW (919) main: Write Time:347537  Int:23  Str:Text data:23
+[0m
+[0;33mW (919) main: Write Time:355496  Int:24  Str:Text data:24
+[0m
+[0;31mE (929) main: Recv Time:357535  Int:15   Str:Text data:15
+[0m
+[0;33mW (939) main: Write Time:367537  Int:25  Str:Text data:25
+[0m
+[0;33mW (939) main: Write Time:374246  Int:26  Str:Text data:26
+[0m
+[0;31mE (949) main: Recv Time:377535  Int:16   Str:Text data:16
+[0m
+[0;33mW (949) main: Write Time:386746  Int:27  Str:Text data:27
+[0m
+[0;31mE (959) main: Recv Time:387535  Int:17   Str:Text data:17
+[0m
+[0;33mW (969) main: Write Time:397537  Int:28  Str:Text data:28
+[0m
+[0;33mW (969) main: Write Time:405496  Int:29  Str:Text data:29
+[0m
+[0;31mE (979) main: Recv Time:407535  Int:18   Str:Text data:18
+[0m
+[0;33mW (989) main: Write Time:417537  Int:30  Str:Text data:30
+[0m
+[0;33mW (989) main: Write Time:424246  Int:31  Str:Text data:31
+[0m
+[0;31mE (999) main: Recv Time:427535  Int:19   Str:Text data:19
+[0m
+[0;33mW (999) main: Write Time:436745  Int:32  Str:Text data:32
+[0m
+[0;31mE (1009) main: Recv Time:437535  Int:20   Str:Text data:20
+[0m
+[0;33mW (1019) main: Write Time:447537  Int:33  Str:Text data:33
+[0m
+[0;33mW (1019) main: Write Time:455669  Int:34  Str:Text data:34
+[0m
+[0;31mE (1029) main: Recv Time:457535  Int:21   Str:Text data:21
+[0m
+[0;33mW (1039) main: Write Time:467537  Int:35  Str:Text data:35
+[0m
+[0;33mW (1039) main: Write Time:474679  Int:36  Str:Text data:36
+[0m
+[0;31mE (1049) main: Recv Time:477535  Int:22   Str:Text data:22
+[0m
+[0;33mW (1049) main: Write Time:487352  Int:37  Str:Text data:37
+[0m
+[0;31mE (1059) main: Recv Time:487535  Int:23   Str:Text data:23
+[0m
+[0;33mW (1069) main: Write Time:497537  Int:38  Str:Text data:38
+[0m
+[0;33mW (1069) main: Write Time:506363  Int:39  Str:Text data:39
+[0m
+[0;31mE (1079) main: Recv Time:507535  Int:24   Str:Text data:24
+[0m
+[0;33mW (1089) main: Write Time:517537  Int:40  Str:Text data:40
+[0m
+[0;33mW (1089) main: Write Time:525373  Int:41  Str:Text data:41
+[0m
+[0;31mE (1099) main: Recv Time:527535  Int:25   Str:Text data:25
+[0m
+[0;33mW (1109) main: Write Time:537537  Int:42  Str:Text data:42
+[0m
+[0;33mW (1109) main: Write Time:544383  Int:43  Str:Text data:43
+[0m
+[0;31mE (1119) main: Recv Time:547535  Int:26   Str:Text data:26
+[0m
+[0;33mW (1119) main: Write Time:557057  Int:44  Str:Text data:44
+[0m
+[0;31mE (1129) main: Recv Time:557535  Int:27   Str:Text data:27
+[0m
+[0;33mW (1139) main: Write Time:567537  Int:45  Str:Text data:45
+[0m
+[0;33mW (1139) main: Write Time:576067  Int:46  Str:Text data:46
+[0m
+[0;31mE (1149) main: Recv Time:577535  Int:28   Str:Text data:28
+[0m
+[0;33mW (1159) main: Write Time:587537  Int:47  Str:Text data:47
+[0m
+[0;33mW (1159) main: Write Time:595077  Int:48  Str:Text data:48
+[0m
+[0;31mE (1169) main: Recv Time:597535  Int:29   Str:Text data:29
+[0m
+[0;33mW (1179) main: Write Time:607537  Int:49  Str:Text data:49
+[0m
+[0;33mW (1179) main: Write Time:614088  Int:50  Str:Text data:50
+[0m
+[0;31mE (1189) main: Recv Time:617535  Int:30   Str:Text data:30
+[0m
+[0;33mW (1189) main: Write Time:626761  Int:51  Str:Text data:51
+[0m
+[0;31mE (1199) main: Recv Time:627535  Int:31   Str:Text data:31
+[0m
+[0;33mW (1209) main: Write Time:637537  Int:52  Str:Text data:52
+[0m
+[0;33mW (1209) main: Write Time:645771  Int:53  Str:Text data:53
+[0m
+[0;31mE (1219) main: Recv Time:647535  Int:32   Str:Text data:32
+[0m
+[0;33mW (1229) main: Write Time:657537  Int:54  Str:Text data:54
+[0m
+[0;33mW (1229) main: Write Time:664782  Int:55  Str:Text data:55
+[0m
+[0;31mE (1239) main: Recv Time:667535  Int:33   Str:Text data:33
+[0m
+[0;33mW (1239) main: Write Time:677455  Int:56  Str:Text data:56
+[0m
+[0;31mE (1249) main: Recv Time:677536  Int:34   Str:Text data:34
+[0m
+[0;33mW (1259) main: Write Time:687537  Int:57  Str:Text data:57
+[0m
+[0;33mW (1259) main: Write Time:696465  Int:58  Str:Text data:58
+[0m
+[0;31mE (1269) main: Recv Time:697535  Int:35   Str:Text data:35
+[0m
+[0;33mW (1279) main: Write Time:707537  Int:59  Str:Text data:59
+[0m
+[0;33mW (1279) main: Write Time:715476  Int:60  Str:Text data:60
+[0m
+[0;31mE (1289) main: Recv Time:717535  Int:36   Str:Text data:36
+[0m
+[0;33mW (1299) main: Write Time:727537  Int:61  Str:Text data:61
+[0m
+[0;33mW (1299) main: Write Time:734486  Int:62  Str:Text data:62
+[0m
+[0;31mE (1309) main: Recv Time:737535  Int:37   Str:Text data:37
+[0m
+[0;33mW (1309) main: Write Time:747159  Int:63  Str:Text data:63
+[0m
+[0;31mE (1319) main: Recv Time:747535  Int:38   Str:Text data:38
+[0m
+[0;33mW (1329) main: Write Time:757537  Int:64  Str:Text data:64
+[0m
+[0;33mW (1329) main: Write Time:766169  Int:65  Str:Text data:65
+[0m
+[0;31mE (1339) main: Recv Time:767535  Int:39   Str:Text data:39
+[0m
+[0;33mW (1349) main: Write Time:777537  Int:66  Str:Text data:66
+[0m
+[0;33mW (1349) main: Write Time:785180  Int:67  Str:Text data:67
+[0m
+[0;31mE (1359) main: Recv Time:787535  Int:40   Str:Text data:40
+[0m
+[0;33mW (1369) main: Write Time:797537  Int:68  Str:Text data:68
+[0m
+[0;33mW (1369) main: Write Time:804190  Int:69  Str:Text data:69
+[0m
+[0;31mE (1379) main: Recv Time:807535  Int:41   Str:Text data:41
+[0m
+[0;33mW (1379) main: Write Time:816863  Int:70  Str:Text data:70
+[0m
+[0;31mE (1389) main: Recv Time:817535  Int:42   Str:Text data:42
+[0m
+[0;33mW (1399) main: Write Time:827537  Int:71  Str:Text data:71
+[0m
+[0;33mW (1399) main: Write Time:835874  Int:72  Str:Text data:72
+[0m
+[0;31mE (1409) main: Recv Time:837535  Int:43   Str:Text data:43
+[0m
+[0;33mW (1419) main: Write Time:847537  Int:73  Str:Text data:73
+[0m
+[0;33mW (1419) main: Write Time:854884  Int:74  Str:Text data:74
+[0m
+[0;31mE (1429) main: Recv Time:857535  Int:44   Str:Text data:44
+[0m
+[0;33mW (1439) main: Write Time:867539  Int:75  Str:Text data:75
+[0m
+[0;33mW (1439) main: Write Time:873894  Int:76  Str:Text data:76
+[0m
+[0;31mE (1449) main: Recv Time:880227  Int:45   Str:Text data:45
+[0m
+[0;33mW (1449) main: Write Time:881734  Int:77  Str:Text data:77
+[0m
+[0;33mW (1459) main: Write Time:892905  Int:78  Str:Text data:78
+[0m
+[0;31mE (1469) main: Recv Time:899237  Int:46   Str:Text data:46
+[0m
+[0;33mW (1469) main: Write Time:901734  Int:79  Str:Text data:79
+[0m
+[0;33mW (1479) main: Write Time:911915  Int:80  Str:Text data:80
+[0m
+[0;31mE (1489) main: Recv Time:918248  Int:47   Str:Text data:47
+[0m
+[0;33mW (1489) main: Write Time:921734  Int:81  Str:Text data:81
+[0m
+[0;33mW (1499) main: Write Time:930925  Int:82  Str:Text data:82
+[0m
+[0;33mW (1499) main: Write Time:937262  Int:83  Str:Text data:83
+[0m
+[0;31mE (1509) main: Recv Time:941730  Int:48   Str:Text data:48
+[0m
+[0;33mW (1519) main: Write Time:949935  Int:84  Str:Text data:84
+[0m
+[0;33mW (1519) main: Write Time:956272  Int:85  Str:Text data:85
+[0m
+[0;31mE (1529) main: Recv Time:961730  Int:49   Str:Text data:49
+[0m
+[0;33mW (1539) main: Write Time:968945  Int:86  Str:Text data:86
+[0m
+[0;33mW (1539) main: Write Time:975282  Int:87  Str:Text data:87
+[0m
+[0;31mE (1549) main: Recv Time:981615  Int:50   Str:Text data:50
+[0m
+[0;33mW (1549) main: Write Time:981734  Int:88  Str:Text data:88
+[0m
+[0;33mW (1559) main: Write Time:994292  Int:89  Str:Text data:89
+[0m
+[0;31mE (1569) main: Recv Time:1000625  Int:51   Str:Text data:51
+[0m
+[0;33mW (1569) main: Write Time:1001734  Int:90  Str:Text data:90
+[0m
+[0;33mW (1579) main: Write Time:1013476  Int:91  Str:Text data:91
+[0m
+[0;31mE (1589) main: Recv Time:1019896  Int:52   Str:Text data:52
+[0m
+[0;33mW (1589) main: Write Time:1021734  Int:92  Str:Text data:92
+[0m
+[0;33mW (1599) main: Write Time:1032747  Int:93  Str:Text data:93
+[0m
+[0;31mE (1609) main: Recv Time:1039166  Int:53   Str:Text data:53
+[0m
+[0;33mW (1609) main: Write Time:1041734  Int:94  Str:Text data:94
+[0m
+[0;33mW (1619) main: Write Time:1052018  Int:95  Str:Text data:95
+[0m
+[0;31mE (1629) main: Recv Time:1058437  Int:54   Str:Text data:54
+[0m
+[0;33mW (1629) main: Write Time:1061734  Int:96  Str:Text data:96
+[0m
+[0;33mW (1639) main: Write Time:1071288  Int:97  Str:Text data:97
+[0m
+[0;31mE (1649) main: Recv Time:1077534  Int:55   Str:Text data:55
+[0m
+[0;33mW (1649) main: Write Time:1081734  Int:98  Str:Text data:98
+[0m
+[0;33mW (1659) main: Write Time:1090559  Int:99  Str:Text data:99
+[0m
+[0;31mE (1669) main: Recv Time:1101730  Int:56   Str:Text data:56
+[0m
+[0;31mE (1679) main: Recv Time:1107534  Int:57   Str:Text data:57
+[0m
+[0;31mE (1689) main: Recv Time:1117534  Int:58   Str:Text data:58
+[0m
+[0;31mE (1699) main: Recv Time:1127534  Int:59   Str:Text data:59
+[0m
+[0;31mE (1709) main: Recv Time:1137534  Int:60   Str:Text data:60
+[0m
+[0;31mE (1719) main: Recv Time:1147534  Int:61   Str:Text data:61
+[0m
+[0;31mE (1729) main: Recv Time:1157534  Int:62   Str:Text data:62
+[0m
+[0;31mE (1739) main: Recv Time:1167534  Int:63   Str:Text data:63
+[0m
+[0;31mE (1749) main: Recv Time:1177534  Int:64   Str:Text data:64
+[0m
+[0;31mE (1759) main: Recv Time:1187534  Int:65   Str:Text data:65
+[0m
+[0;31mE (1769) main: Recv Time:1197534  Int:66   Str:Text data:66
+[0m
+[0;31mE (1779) main: Recv Time:1207534  Int:67   Str:Text data:67
+[0m
+[0;31mE (1789) main: Recv Time:1217534  Int:68   Str:Text data:68
+[0m
+[0;31mE (1799) main: Recv Time:1227534  Int:69   Str:Text data:69
+[0m
+[0;31mE (1809) main: Recv Time:1237534  Int:70   Str:Text data:70
+[0m
+[0;31mE (1819) main: Recv Time:1247534  Int:71   Str:Text data:71
+[0m
+[0;31mE (1829) main: Recv Time:1257534  Int:72   Str:Text data:72
+[0m
+[0;31mE (1839) main: Recv Time:1267534  Int:73   Str:Text data:73
+[0m
+[0;31mE (1849) main: Recv Time:1277534  Int:74   Str:Text data:74
+[0m
+[0;31mE (1859) main: Recv Time:1287534  Int:75   Str:Text data:75
+[0m
+[0;31mE (1869) main: Recv Time:1297534  Int:76   Str:Text data:76
+[0m
+[0;31mE (1879) main: Recv Time:1307534  Int:77   Str:Text data:77
+[0m
+[0;31mE (1889) main: Recv Time:1317534  Int:78   Str:Text data:78
+[0m
+[0;31mE (1899) main: Recv Time:1327534  Int:79   Str:Text data:79
+[0m
+[0;31mE (1909) main: Recv Time:1337534  Int:80   Str:Text data:80
+[0m
+[0;31mE (1919) main: Recv Time:1347534  Int:81   Str:Text data:81
+[0m
+[0;31mE (1929) main: Recv Time:1357534  Int:82   Str:Text data:82
+[0m
+[0;31mE (1939) main: Recv Time:1367534  Int:83   Str:Text data:83
+[0m
+[0;31mE (1949) main: Recv Time:1377534  Int:84   Str:Text data:84
+[0m
+[0;31mE (1959) main: Recv Time:1387534  Int:85   Str:Text data:85
+[0m
+[0;31mE (1969) main: Recv Time:1397534  Int:86   Str:Text data:86
+[0m
+[0;31mE (1979) main: Recv Time:1407534  Int:87   Str:Text data:87
+[0m
+[0;31mE (1989) main: Recv Time:1417534  Int:88   Str:Text data:88
+[0m
+[0;31mE (1999) main: Recv Time:1427534  Int:89   Str:Text data:89
+[0m
+[0;31mE (2009) main: Recv Time:1437534  Int:90   Str:Text data:90
+[0m
+[0;31mE (2019) main: Recv Time:1447534  Int:91   Str:Text data:91
+[0m
+[0;31mE (2029) main: Recv Time:1457534  Int:92   Str:Text data:92
+[0m
+[0;31mE (2039) main: Recv Time:1467534  Int:93   Str:Text data:93
+[0m
+[0;31mE (2049) main: Recv Time:1477534  Int:94   Str:Text data:94
+[0m
+[0;31mE (2059) main: Recv Time:1487534  Int:95   Str:Text data:95
+[0m
+[0;31mE (2069) main: Recv Time:1497534  Int:96   Str:Text data:96
+[0m
+[0;31mE (2079) main: Recv Time:1507534  Int:97   Str:Text data:97
+[0m
+[0;31mE (2089) main: Recv Time:1517534  Int:98   Str:Text data:98
+[0m
+[0;31mE (2099) main: Recv Time:1527534  Int:99   Str:Text data:99
+[0m
+[0;31mE (6429) task_wdt: Task watchdog got triggered. The following tasks did not reset the watchdog in time:[0m
+[0;31mE (6429) task_wdt:  - IDLE (CPU 0)[0m
+[0;31mE (6429) task_wdt: Tasks currently running:[0m
+[0;31mE (6429) task_wdt: CPU 0: udp_task[0m
+[0;31mE (6429) task_wdt: CPU 1: IDLE[0m
+[0;31mE (6429) task_wdt: Print CPU 0 (current core) backtrace[0m
+
+
+Backtrace: 0x400F1D2F:0x3FFB0630 0x4008203D:0x3FFB0650 0x400D16CE:0x3FFC3200 0x400880AD:0x3FFC32C0
+
+
+[0;31mE (6429) task_wdt: Print CPU 1 backtrace[0m
+
+
+Backtrace: 0x40084379:0x3FFB0C30 0x4008203D:0x3FFB0C50 0x4000BFED:0x3FFC40C0 0x4008835E:0x3FFC40D0 0x400F1F72:0x3FFC40F0 0x400F1F97:0x3FFC4120 0x400D2761:0x3FFC4140 0x400869E1:0x3FFC4160 0x400880AD:0x3FFC4180
+
+
+[0;31mE (11429) task_wdt: Task watchdog got triggered. The following tasks did not reset the watchdog in time:[0m
+[0;31mE (11429) task_wdt:  - IDLE (CPU 0)[0m
+[0;31mE (11429) task_wdt: Tasks currently running:[0m
+[0;31mE (11429) task_wdt: CPU 0: udp_task[0m
+[0;31mE (11429) task_wdt: CPU 1: IDLE[0m
+[0;31mE (11429) task_wdt: Print CPU 0 (current core) backtrace[0m
+
+
+Backtrace: 0x400F1D2F:0x3FFB0630 0x4008203D:0x3FFB0650 0x400D16CE:0x3FFC3200 0x400880AD:0x3FFC32C0
+
+
+[0;31mE (11429) task_wdt: Print CPU 1 backtrace[0m
+
+
+Backtrace: 0x40084379:0x3FFB0C30 0x4008203D:0x3FFB0C50 0x4000BFED:0x3FFB7B00 0x4008835E:0x3FFB7B10 0x400F1F8C:0x3FFB7B30 0x400F1F97:0x3FFB7B60 0x400D2761:0x3FFB7B80 0x400869E1:0x3FFB7BA0 0x400880AD:0x3FFB7BC0
+
+
+[0;31mE (16429) task_wdt: Task watchdog got triggered. The following tasks did not reset the watchdog in time:[0m
+[0;31mE (16429) task_wdt:  - IDLE (CPU 0)[0m
+[0;31mE (16429) task_wdt: Tasks currently running:[0m
+[0;31mE (16429) task_wdt: CPU 0: udp_task[0m
+[0;31mE (16429) task_wdt: CPU 1: IDLE[0m
+[0;31mE (16429) task_wdt: Print CPU 0 (current core) backtrace[0m
+
+
+Backtrace: 0x400F1D2F:0x3FFB0630 0x4008203D:0x3FFB0650 0x400D16CE:0x3FFC3200 0x400880AD:0x3FFC32C0
+
+
+[0;31mE (16429) task_wdt: Print CPU 1 backtrace[0m
+
+
+Backtrace: 0x40084379:0x3FFB0C30 0x4008203D:0x3FFB0C50 0x4000BFED:0x3FFB7B00 0x4008835E:0x3FFB7B10 0x400F1F8C:0x3FFB7B30 0x400F1F97:0x3FFB7B60 0x400D2761:0x3FFB7B80 0x400869E1:0x3FFB7BA0 0x400880AD:0x3FFB7BC0
+
+
+[0;31mE (21429) task_wdt: Task watchdog got triggered. The following tasks did not reset the watchdog in time:[0m
+[0;31mE (21429) task_wdt:  - IDLE (CPU 0)[0m
+[0;31mE (21429) task_wdt: Tasks currently running:[0m
+[0;31mE (21429) task_wdt: CPU 0: udp_task[0m
+[0;31mE (21429) task_wdt: CPU 1: IDLE[0m
+[0;31mE (21429) task_wdt: Print CPU 0 (current core) backtrace[0m
+
+
+Backtrace: 0x400F1D2F:0x3FFB0630 0x4008203D:0x3FFB0650 0x400D16CE:0x3FFC3200 0x400880AD:0x3FFC32C0
+
+
+[0;31mE (21429) task_wdt: Print CPU 1 backtrace[0m
+
+
+Backtrace: 0x40084379:0x3FFB0C30 0x4008203D:0x3FFB0C50 0x4000BFED:0x3FFB7B00 0x4008835E:0x3FFB7B10 0x400F1F8C:0x3FFB7B30 0x400F1F97:0x3FFB7B60 0x400D2761:0x3FFB7B80 0x400869E1:0x3FFB7BA0 0x400880AD:0x3FFB7BC0
+
+
+[0;31mE (26429) task_wdt: Task watchdog got triggered. The following tasks did not reset the watchdog in time:[0m
+[0;31mE (26429) task_wdt:  - IDLE (CPU 0)[0m
+[0;31mE (26429) task_wdt: Tasks currently running:[0m
+[0;31mE (26429) task_wdt: CPU 0: udp_task[0m
+[0;31mE (26429) task_wdt: CPU 1: IDLE[0m
+[0;31mE (26429) task_wdt: Print CPU 0 (current core) backtrace[0m
+
+
+Backtrace: 0x400F1D2F:0x3FFB0630 0x4008203D:0x3FFB0650 0x400D16CE:0x3FFC3200 0x400880AD:0x3FFC32C0
+
+
+[0;31mE (26429) task_wdt: Print CPU 1 backtrace[0m
+
+
+Backtrace: 0x40084379:0x3FFB0C30 0x4008203D:0x3FFB0C50 0x4000BFED:0x3FFB7B00 0x4008835E:0x3FFB7B10 0x400F1F8C:0x3FFB7B30 0x400F1F97:0x3FFB7B60 0x400D2761:0x3FFB7B80 0x400869E1:0x3FFB7BA0 0x400880AD:0x3FFB7BC0
+
+
+[0;31mE (31429) task_wdt: Task watchdog got triggered. The following tasks did not reset the watchdog in time:[0m
+[0;31mE (31429) task_wdt:  - IDLE (CPU 0)[0m
+[0;31mE (31429) task_wdt: Tasks currently running:[0m
+[0;31mE (31429) task_wdt: CPU 0: udp_task[0m
+[0;31mE (31429) task_wdt: CPU 1: IDLE[0m
+[0;31mE (31429) task_wdt: Print CPU 0 (current core) backtrace[0m
+
+
+Backtrace: 0x400F1D2F:0x3FFB0630 0x4008203D:0x3FFB0650 0x400D16CE:0x3FFC3200 0x400880AD:0x3FFC32C0
+
+
+[0;31mE (31429) task_wdt: Print CPU 1 backtrace[0m
+
+
+Backtrace: 0x40084379:0x3FFB0C30 0x4008203D:0x3FFB0C50 0x4000BFED:0x3FFB7B00 0x4008835E:0x3FFB7B10 0x400F1F8C:0x3FFB7B30 0x400F1F97:0x3FFB7B60 0x400D2761:0x3FFB7B80 0x400869E1:0x3FFB7BA0 0x400880AD:0x3FFB7BC0
+
+
+[0;31mE (36429) task_wdt: Task watchdog got triggered. The following tasks did not reset the watchdog in time:[0m
+[0;31mE (36429) task_wdt:  - IDLE (CPU 0)[0m
+[0;31mE (36429) task_wdt: Tasks currently running:[0m
+[0;31mE (36429) task_wdt: CPU 0: udp_task[0m
+[0;31mE (36429) task_wdt: CPU 1: IDLE[0m
+[0;31mE (36429) task_wdt: Print CPU 0 (current core) backtrace[0m
+
+
+Backtrace: 0x400F1D2F:0x3FFB0630 0x4008203D:0x3FFB0650 0x400D16CE:0x3FFC3200 0x400880AD:0x3FFC32C0
+
+
+[0;31mE (36429) task_wdt: Print CPU 1 backtrace[0m
+
+
+Backtrace: 0x40084379:0x3FFB0C30 0x4008203D:0x3FFB0C50 0x4000BFED:0x3FFB7B00 0x4008835E:0x3FFB7B10 0x400F1F8C:0x3FFB7B30 0x400F1F97:0x3FFB7B60 0x400D2761:0x3FFB7B80 0x400869E1:0x3FFB7BA0 0x400880AD:0x3FFB7BC0
+
+
+[0;31mE (41429) task_wdt: Task watchdog got triggered. The following tasks did not reset the watchdog in time:[0m
+[0;31mE (41429) task_wdt:  - IDLE (CPU 0)[0m
+[0;31mE (41429) task_wdt: Tasks currently running:[0m
+[0;31mE (41429) task_wdt: CPU 0: udp_task[0m
+[0;31mE (41429) task_wdt: CPU 1: IDLE[0m
+[0;31mE (41429) task_wdt: Print CPU 0 (current core) backtrace[0m
+
+
+Backtrace: 0x400F1D2F:0x3FFB0630 0x4008203D:0x3FFB0650 0x400D16CE:0x3FFC3200 0x400880AD:0x3FFC32C0
+
+
+[0;31mE (41429) task_wdt: Print CPU 1 backtrace[0m
+
+
+Backtrace: 0x40084379:0x3FFB0C30 0x4008203D:0x3FFB0C50 0x4000BFED:0x3FFB7B00 0x4008835E:0x3FFB7B10 0x400F1F8C:0x3FFB7B30 0x400F1F97:0x3FFB7B60 0x400D2761:0x3FFB7B80 0x400869E1:0x3FFB7BA0 0x400880AD:0x3FFB7BC0
+
+
